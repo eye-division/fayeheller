@@ -1,6 +1,8 @@
 ---
-permalink: /thanks/
+layout: empty
+permalink: /thumbs.php?cat=3.html
 ---
+
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Contact</title>
@@ -42,7 +44,35 @@ permalink: /thanks/
 	<div id="content"><div id="page"><p><p>Faye Heller lives and works in London UK. She can be contacted on <a href="mailto:info@fayeheller.com">info@fayeheller.com</a></p>
 </p></div>
 
-<p>Thank you for your message!</p>
+<form action="/thanks/" method="post" id="contact-form">
+
+      <fieldset>
+
+            <input type="hidden" name="_to" value="fayeheller@btinternet.com">
+            <input type="hidden" name="_cc" value="a.ward@eyedivision.com">
+            <input type="hidden" name="_subject" value="Web form">
+            <p>
+            <label for="name">Name:</label>
+            <input type="text" name="name">
+            </p>
+            <p>
+            <label for="_replyto">Email:</label>
+            <input type="text" name="_replyto">
+            </p>
+            <p>
+            <label>Message</label>
+            <textarea name="message"></textarea>
+            </p>
+            {% if site.recaptcha_site_key %}
+            <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
+            {% endif %}
+        <p>
+            <input type="submit" value="Send message">
+            </p>
+      </fieldset>
+
+      </form>
+
 
 	</div>	</div><!-- end container -->
     <div id="credits">&copy; All work is copyright the artist, no reproduction without permission.<br /><a href="http://www.eyedivision.com" title="An Eye Gallery system site from Eye Division" target="_blank"><img src="images/eyegallery.gif" alt="an Eye Gallery site from Eye Division" width="30" height="31" /></a><br />
