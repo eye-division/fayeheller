@@ -1,8 +1,14 @@
-- title: "Posts"
-  href: "/posts/"
-  
-- title: "Projects"
+- title: "Home"
+  href: "/"
+
+- title: "Colour Montages"
   href: "/projects/"
-  
-- title: "About"
-  href: "/about/"
+
+- title: "Selected exhibitions and commissions"
+  href: ""
+
+- title: "Cinematic Kinetics by M. James"
+  href: ""
+
+- title: "Contact"
+  href: "/contact/"
