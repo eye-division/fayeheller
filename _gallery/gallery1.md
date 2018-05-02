@@ -1,32 +1,18 @@
 ---
-title: Gallery 1
-description_markdown: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime voluptate,
-  dicta ex incidunt harum id vitae itaque alias voluptates pariatur! Aliquid
-  expedita rerum autem vel est pariatur, quibusdam consectetur, aliquam!
+title: Colour Montages
+description_markdown: |
+  
 homepage_description_markdown: 
 frontpage: true
 _gallery_date: 2016-05-01 00:00:00
-permalink: /gallery/test/
+permalink: /gallery/colour-montages/
 archive: false
 display_title: true
-main_image_path: /assets/images/e-la-nave-va_21390829511_o.jpg
+main_image_path: '/assets/images/53ca16774b866.jpg'
 images:
-  - image_path: /assets/images/advert-customers.jpg
-    image_title: Graveyard
-    image_description: These customers didn't choose Eye Division
-  - image_path: /assets/images/clevedon-pools.jpg
-    image_title: Clevedon Pools
-    image_description: Experience an ocean of bliss
-  - image_path: /assets/images/advert-impregnable.jpg
-    image_title: Fortress
-    image_description: Your site is our impregnable fortress
-  - image_path: '/assets/images/Keen of Hamar, Unst.jpg'
-    image_title: Test resized image
-    image_description: Test resized
-  - image_path: '/assets/images/Keen of Hamar, Unst.jpg'
-    image_title: Resized to 600
-    image_description: Resized to 600 square max
+  - image_path: '/assets/images/53ca16774b866.jpg'
+    image_title: "Into the Void 1"
+    image_description: 
 _options:
   image_path:
     width: 1200

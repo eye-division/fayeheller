@@ -1,9 +1,9 @@
 // Google Fonts
-@import url(//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300|Lato:300,400);
+//@import url(//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300|Lato:300,400);
 /// Typography
-$base-font-family: ('Open Sans',  'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif); // $helvetica;
-$heading-font-family: ('Lato', 'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif); // $base-font-family;
-$subheading-font-family: ('Lato', 'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif);
+$base-font-family: ('Georgia',  'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif); // $helvetica;
+$heading-font-family: ('Georgia', 'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif); // $base-font-family;
+$subheading-font-family: ('Georgia', 'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif);
 // Font Sizes
 $base-font-size: $em-base; // 16px
 
@@ -87,7 +87,7 @@ $navigation-height: 30px;
 $navigation-submenu-padding: 1em;
 $navigation-submenu-width: 15em;
 // navigation colours
-$navigation-color: $black;
+$navigation-color: $white;
 $navigation-color-hover: $medium-gray;
 $navigation-active-link-color: transparentize(white, 0.5);
 

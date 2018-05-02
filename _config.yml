@@ -16,7 +16,7 @@ description: Faye Heller gallery
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://www.fayeheller.com"
+url: "http://limber-hornet.cloudvent.net/"
 logo: "/siteicon.png"
 email: fayeheller@btinternet.com
 
@@ -28,9 +28,11 @@ inter_post_navigation: false
 permalink: pretty
 highlightjs_theme: "monokai-sublime"
 
+showpagelinks: false
+
 # Image CDN
 imagecdn:
-  #staging: "http://ed-dev.imgix.net"
+  staging: "https://ed-faye-heller-dev.imgix.net"
   #production: "http://ed.imgix.net"
 
 # Collections

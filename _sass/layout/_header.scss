@@ -1,7 +1,10 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the header
 // -----------------------------------------------------------------------------
-
+.header--title {
+    text-align: center;
+    color: $white;
+}
 /// logo
 .logo {
     display: block;
