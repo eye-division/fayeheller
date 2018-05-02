@@ -1,5 +1,5 @@
 ---
-title: Selected exhibitions and commissions
+title: "Selected exhibitions and commissions"
 description_markdown: 
 homepage_description_markdown: 
 _gallery_date:

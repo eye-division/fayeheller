@@ -1,5 +1,5 @@
 ---
-title: Colour Montages
+title: "Colour Montages"
 description_markdown: |
   
 homepage_description_markdown: 

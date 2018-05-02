@@ -1,0 +1,44 @@
+---
+title: "Cinematic Kinetics by M. James"
+description_markdown: |
+  Cinematic Kinetics Expressed in Stills: the Photomontage Works of Faye Heller
+
+  Mark James 2015
+
+  Heller’s photomontage compositions, for many years purely monochrome but latterly with elements of colour, form an extended disquisition upon the conflicts between the perceived order of external realities and the disruptive potential of human protagonists pressed upon them, articulated in a richly-nuanced idiom of images composed of cut and torn photographs.
+
+  Frequently using photographs whose age and era is evident from their technical characteristics such as smoky blacks or over-saturated colours, Heller will often consider a formal structure or scene presented to the world by a photographer – perhaps a modernist, rectilinear tower or a promotional photograph of an orderly, industrious factory – and then overlay the structure with strips cut or torn from other images, frequently depicting a woman’s highly-stylized features. Intensely cinematically aware, these counter-pointed compositions evoke with still images the complexity and kinetics of an intercut cinematic sequence, perhaps overlaying an establishing shot of a wide-angle cityscape or interior with excised elements of a closely-framed shot of a female face, often dramatically made up and rendered in high contrast.
+
+  In some works, such as ‘Start of Fiction’, the cinematic counterpoint between these two elements is reinforced by the movement of the intercut elements around a common vertical axis, thus suggesting two counterposed tracking shots as the viewpoint is shifted within each of the three facial elements and each of the four visible bands of the interior scene. The best of Heller’s photomontages achieve a very precisely weighted equilibrium, where the tensions between the calm, somewhat disassociated cycloramas of factories or skyscrapers in a cityscape and the sensual, expressive lips and eyes placed into that surface, deliberately discomfit the viewer whose eye readily detects the disparity between the long-shot and the close-up compressed into one plane. This uneasiness engenders a frame of mind susceptible to the questions and doubts that the artist raises, and the balance of the different elements prevents any element becoming predominant, but, instead, allows them to interact with one another, as strong emotions are retained within architectural boundaries, and the individual pushes up against the strictures of society.
+homepage_description_markdown: 
+_gallery_date:
+frontpage: false
+permalink: /gallery/cinematic-kinetics/
+display_title: true
+archive: false
+main_image_path: ''
+images:
+  - image_path: ''
+    image_title: ""
+    image_description: ""
+_options:
+  image_path:
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
+  main_image_path:
+    width: 1200
+    height: 800
+    resize_style: contain
+    mime_type: image/jpeg
+_comments:
+  title: Gallery title
+  permalink: Be careful editing this
+  main_image_path: Image used to represent your gallery
+  images: Add and edit your gallery images here
+  image_description: Might only be shown in the close up of an image
+  archive: Not used yet!
+  frontpage: Show this gallery on the homepage
+  homepage_description_markdown: Text used on homepage if shown
+---
