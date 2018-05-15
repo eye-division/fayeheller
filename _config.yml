@@ -33,7 +33,7 @@ showpagelinks: false
 # Image CDN
 imagecdn:
   staging: "https://ed-faye-heller-dev.imgix.net" #limber-hornet.cloudvent.net
-  production: "https://ed.faye-heller.imgix.net"
+  production: "https://ed-faye-heller.imgix.net"
 
 # Collections
 collections:
