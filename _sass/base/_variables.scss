@@ -82,14 +82,14 @@ $base-border-radius: 3px !default;
 
 // navigation
 $navigation-padding: 1em;
-$navigation-background: $kbgray;
+$navigation-background: $black;
 $navigation-height: 30px;
 $navigation-submenu-padding: 1em;
 $navigation-submenu-width: 15em;
 // navigation colours
 $navigation-color: $white;
-$navigation-color-hover: $medium-gray;
-$navigation-active-link-color: transparentize(white, 0.5);
+$navigation-color-hover: $orange;
+$navigation-active-link-color: $orange;
 
 // drop down variables
 $dropdown-color: $base-font-color;
