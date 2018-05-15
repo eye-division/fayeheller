@@ -50,6 +50,11 @@ defaults:
             type: "gallery"
         values:
             layout: "gallery"
+    -
+        scope:
+            path: "index.html"
+        values:
+            layout: "home"
 
 # Google analytics
 ga_tracking_id: "UA-76375515-1"
