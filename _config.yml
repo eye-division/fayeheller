@@ -15,10 +15,10 @@ description: Faye Heller gallery
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: ""
-# the base hostname & protocol for your site
-url: "http://limber-hornet.cloudvent.net/"
+# the base hostname & protocol for your site - no end slash
+url: "https://www.fayeheller.com"
 logo: "/siteicon.png"
-email: fayeheller@btinternet.com
+email: "fayeheller@btinternet.com"
 
 # Build settings
 markdown: kramdown
@@ -42,19 +42,18 @@ collections:
         permalink: /gallery/:path/
         _hide_content: true
 
-# Defaults Example
 defaults:
+    -
+        scope:
+            path: ""
+        values:
+            layout: "page"
     -
         scope:
             path: ""
             type: "gallery"
         values:
             layout: "gallery"
-    -
-        scope:
-            path: "index.html"
-        values:
-            layout: "home"
 
 # Google analytics
 ga_tracking_id: "UA-76375515-1"
