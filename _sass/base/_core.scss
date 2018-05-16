@@ -23,13 +23,13 @@ body {
       "header"
       "page"
       "footer";
-    grid-template-rows: minmax(120px, 10%) 1fr 20%;
+    grid-template-rows: 10% 1fr 20%;
     grid-gap: 10px;
     height: 100vh;
     margin: 0;
     background-color: $base-background-color;
     @include media ($medium) {
-        grid-template-rows: minmax(120px, 10%) 1fr 20%;
+        //grid-template-rows: minmax(120px, 10%) 1fr 20%;
     }
 }
 

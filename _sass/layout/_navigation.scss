@@ -4,7 +4,7 @@
 
 .navigation {
     margin: 0;
-    padding: 1em;
+    padding: 0;
     background-color: $navigation-background;
     color: $navigation-color;
     z-index: 99; // to cover over flexslider
@@ -20,6 +20,10 @@
 /// small view
 .navigation-menu-button {
     display: block;
+    /*position: fixed;
+    top: 0;
+    right: 0;*/
+    background: $navigation-background;
     text-align: right;
     margin: 0;
     font-size: 1.5em;
@@ -34,10 +38,10 @@
     }
     &:hover, &:active {
         text-decoration: none;
-        color: tint($navigation-color,20%);
+        color: $navigation-color-hover;
         /// menu icon
         .icon-menu {
-            fill : tint($navigation-color,20%);
+            fill : $navigation-color-hover;
         }
     }
     @include media ($medium) {
@@ -47,23 +51,30 @@
 .menu-title {
     font-size: 0.9em;
     font-weight: 400;
+    &:link {
+        color: $navigation-color;
+    }
+    &:hover, &:active {
+        color: $navigation-color-hover;
+    }
 }
 
 nav {
-    float: right;
+    //float: right;
     @include media ($medium) {
-        float: none;
+        //float: none;
         line-height: 1.5em;
     }
 }
 
 ul.navigation-menu {
+    background: $navigation-background;
     clear: both;
     text-align: center;
     display: none;
     margin: 0 auto;
     overflow: visible;
-    padding: 0;
+    padding: 1em;
     width: 100%;
     @include media ($medium) {
         display: block;
