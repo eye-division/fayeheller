@@ -1,10 +1,9 @@
-# External gems
-gems:
-  - jekyll-sitemap
-  - jekyll-paginate
-
-exclude:
-  - "/vendor/"
+plugins:
+ # - jekyll-archives # Sorry, not GitHub pages friendly!
+ # - jekyll-assets
+ # - autoprefixer-rails
+   - jekyll-seo-tag
+   - jekyll-sitemap
 
 # Site settings
 title: Faye Heller
