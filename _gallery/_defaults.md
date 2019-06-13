@@ -13,6 +13,8 @@ images:
     image_title:
     image_description:
 _options:
+  layout:
+    hidden: true
   image_path:
     width: 1200
     height: 1200

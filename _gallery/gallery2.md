@@ -3,10 +3,10 @@ title: "Selected exhibitions and commissions"
 description_markdown: 
 homepage_description_markdown: 
 _gallery_date:
-frontpage: true
+frontpage: false
 permalink: /gallery/selected-exhibitions-and-commissions/
 display_title: true
-archive: false
+archive: true
 main_image_path: '/assets/images/536f73aa09325.jpg'
 images:
   - image_path: '/assets/images/536f73aa09325.jpg'
@@ -25,6 +25,8 @@ images:
     image_title: "Uncertain States Exhibition 2016"
     image_description: ""
 _options:
+  layout:
+    hidden: true
   image_path:
     width: 1200
     height: 1200
