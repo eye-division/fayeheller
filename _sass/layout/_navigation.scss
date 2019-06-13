@@ -2,13 +2,15 @@
 .navigation {
     margin: 0;
     padding: 1em 1em 0;
-    background-color: $white;
+    background-color: $navigation-background;
+    color: $navigation-color;
     z-index: 99; // to cover over flexslider
 }
 /// Nav menu
 .navigation--wrapper {
     position: relative;
-    background-color: $white;
+    background-color: $navigation-background;
+    color: $navigation-color;
 }
 
 /// small view
@@ -29,10 +31,10 @@
     }
     &:hover, &:active {
         text-decoration: none;
-        color: tint($navigation-color,20%);
+        color: tint($navigation-color-hover,40%);
         /// menu icon
         .icon-menu {
-            fill : tint($navigation-color,20%);
+            fill : tint($navigation-color-hover,20%);
         }
     }
     @include grid-media ($small) {
@@ -93,7 +95,7 @@ nav {
             padding-right: 1.5em;
         }
         &:hover {
-            color: $navigation-color-hover;
+            color: tint($navigation-color-hover,20%);
             text-decoration: none;
         }
     }
@@ -105,7 +107,7 @@ nav {
     }
     &.active a {
         a {
-            color: $action-hover-color
+            color: tint($navigation-color-hover,20%);
         }
     }
 }
@@ -125,7 +127,7 @@ nav {
 
 li.active {
     a {
-        color: $action-hover-color
+        color: tint($navigation-color-hover,20%);
     }
 }
 

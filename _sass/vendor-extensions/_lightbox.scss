@@ -30,13 +30,13 @@
   }
   .lb-caption {
     font-weight: 400;
-    font-size: 1rem;
+    font-size: inherit;
     color: $lightbox-color;
     line-height: 1.6em;
   }
   .lb-number {
     color: $lightbox-color;
-    font-size: inherit;
+    font-size: smaller;
   }
 }
 
