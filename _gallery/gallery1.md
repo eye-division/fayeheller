@@ -14,14 +14,17 @@ main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
+  - image_path: /uploads/untitled-2018.JPG
+    image_title: Untitled 2016
+    image_description:
+  - image_path: /assets/images/5382d49f381e4.jpg
+    image_title: Reflecting (Montage)
+    image_description:
   - image_path: /assets/images/53ca16774b866.jpg
     image_title: Into the Void 1
     image_description:
   - image_path: /assets/images/54d25a9c5a2fb.jpg
     image_title: Into the Void 3
-    image_description:
-  - image_path: /assets/images/5382d49f381e4.jpg
-    image_title: Reflecting (Montage)
     image_description:
   - image_path: /assets/images/5382d552063ae.jpg
     image_title: Sky View (Montage)
@@ -31,9 +34,6 @@ images:
     image_description:
   - image_path: /assets/images/5382d7588a9ac.jpg
     image_title: Sea View (Montage)
-    image_description:
-  - image_path: /uploads/untitled-2018.JPG
-    image_title: Untitled 2016
     image_description:
 _options:
   layout:
