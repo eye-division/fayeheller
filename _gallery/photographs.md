@@ -2,7 +2,7 @@
 title: Photographs
 description_markdown:
 homepage_description_markdown:
-frontpage: true
+frontpage: false
 _gallery_date:
 permalink: /gallery/photographs/
 archive: false
