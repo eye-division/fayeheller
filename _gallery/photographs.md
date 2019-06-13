@@ -8,7 +8,11 @@ _gallery_date: 2019-06-01 00:00:00
 permalink: /gallery/photographs/
 archive: false
 display_title: true
+display_image: false
 main_image_path: /assets/images/53ca16774b866.jpg
+main_image_caption: 
+thumb_crop: true
+display_thumb_title: true
 images:
   - image_path: /assets/images/4f40d160cc5ac.jpg
     image_title: Wild
