@@ -1,5 +1,5 @@
 ---
-title: Originals
+title:
 description_markdown:
 homepage_description_markdown:
 frontpage: true
