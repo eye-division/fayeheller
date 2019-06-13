@@ -1,33 +1,26 @@
 ---
 layout: page
-title: Error 404
+title: "Error 404"
 main_image_path:
-image_caption:
-frontpage: false
-homepage_description_markdown:
-frontpagetitle:
-images:
-  - image_path:
-    image_title: ""
-    image_description:
+main_image_caption:
 _options:
   layout:
     hidden: true
-  main_image_path:
+  image_path:
+    uploads_dir: "assets/images/:year"
     width: 1200
     height: 1200
-    resize_style: "contain"
-    mime_type: "image/jpeg"
-_comments:
-  title: Page title
-  permalink: Be careful editing this
-  main_image_path: Image used to represent your page
-  archive: Not used yet!
-  frontpage: Show this page on the homepage
-  homepage_description_markdown: Text used on homepage if shown
-  frontpagetitle: Alternative title for home page use
-  images: Add and edit images here
+    resize_style: contain
+    mime_type: image/jpeg
+  main_image_path:
+    uploads_dir: "assets/images/:year"
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
+  content:
+    uploads_dir: "assets/:year"
 ---
 
-	<h2>Oops!</h2>
-	<p>Error 4&#247;4</p>
+  <h2>Oops!</h2>
+  <p>Error 4&#247;4</p>
