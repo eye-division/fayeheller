@@ -8,7 +8,7 @@ _gallery_date: 2019-06-01 00:00:00
 permalink: /gallery/installations/
 archive: false
 display_title: true
-display_image: false
+display_image: true
 main_image_path: /assets/images/4b8ff254608bd.jpg
 main_image_caption:
 thumb_crop: true
