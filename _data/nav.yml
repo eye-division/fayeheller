@@ -1,8 +1,14 @@
-- title: "Posts"
-  href: "/posts/"
-  
-- title: "Projects"
-  href: "/projects/"
-  
-- title: "About"
-  href: "/about/"
+- title: Home
+  href: /
+- title: Photographs
+  href: /gallery/photographs/
+- title: Originals
+  href: /gallery/originals/
+- title: Publications
+  href: /publications/
+- title: Bio
+  href: /bio/
+- title: Installations
+  href: /gallery/installations/
+- title: Contact
+  href: /contact/

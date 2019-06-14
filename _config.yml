@@ -1,58 +1,62 @@
-# External gems
-gems:
-  - jekyll-sitemap
-
-exclude:
-  - "/vendor/"
+plugins:
+ # - jekyll-archives # Sorry, not GitHub pages friendly!
+ # - jekyll-assets
+ # - autoprefixer-rails
+   - jekyll-seo-tag
+   - jekyll-sitemap
 
 # Site settings
 title: Faye Heller
-subtitle: Faye Heller Eye Gallery built on Bourbon and Neat
+subtitle: Photographer
 name: Faye Heller
-description: Faye Heller gallery
+description: Faye Heller was born in Cornwall in 1972. She slowly made her way up the country (stopping at Plymouth and Farnham) to London, over to Amsterdam, then Brighton where she currently lives with her three children, partner and dog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: ""
-# the base hostname & protocol for your site
-url: "http://www.fayeheller.com"
+# the base hostname & protocol for your site - no end slash
+url: "https://www.fayeheller.com"
 logo: "/siteicon.png"
-email: fayeheller@btinternet.com
+email: "fayeheller@btinternet.com"
 
 # Build settings
 markdown: kramdown
-# paginate: 5
-# paginate_path: "/page:num/"
-# inter_post_navigation: false
+
 permalink: pretty
+highlightjs_theme: "monokai-sublime"
+
+showpagelinks: false
 
 # Image CDN
 imagecdn:
-  #staging: "http://ed-dev.imgix.net"
-  #production: "http://ed.imgix.net"
+  staging: "https://ed-faye-heller-dev.imgix.net" #limber-hornet.cloudvent.net
+  production: "https://ed-faye-heller.imgix.net"
 
 # Collections
 collections:
-#     projects:
-#         output: true
-#         permalink: /projects/:path/
+    gallery:
+        output: true
+        permalink: /gallery/:path/
+        _hide_content: true
 
-
-# Defaults Example
 defaults:
-#     -
-#         scope:
-#             path: ""
-#             type: "projects"
-#         values:
-#             layout: "project"
-
+    -
+        scope:
+            path: ""
+        values:
+            layout: "page"
+    -
+        scope:
+            path: ""
+            type: "gallery"
+        values:
+            layout: "gallery"
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-76375515-1"
 
 # Google Recaptcha for contact form
-recaptcha_site_key: 6Ld4eisUAAAAADZY-9zQSx983UBDWe5wXH4Fe-pZ
+recaptcha_site_key: '6Ld4eisUAAAAADZY-9zQSx983UBDWe5wXH4Fe-pZ'
 
 # Social icons and sharing options
 #
@@ -137,10 +141,10 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/siteicon.png"
-    fb_image_width: 480
-    fb_image_height: 480
+    fb_image: "/og-image.jpg"
+    fb_image_width: 260
+    fb_image_height: 136
     fb_image_type: "image/png"
 
-    twitter_image: "/siteicon.png"
+    twitter_image: "/og-image.jpg"
 
