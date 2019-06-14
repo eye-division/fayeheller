@@ -1,5 +1,5 @@
 ---
-title: '*'
+title: 'Originals'
 description_markdown:
 homepage_description_markdown:
 frontpage: true
@@ -66,4 +66,5 @@ _comments:
   frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown
 ---
+
 

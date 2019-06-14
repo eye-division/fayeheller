@@ -1,14 +1,14 @@
 ---
-title: Installations
+title: 'Installations'
 description_markdown: 'Hull, UK'
 homepage_description_markdown:
+_gallery_date: 2019-06-01 00:00:00
 frontpage: true
 frontpagetitle: Installations
-_gallery_date: 2019-06-01 00:00:00
 permalink: /gallery/installations/
-archive: false
-display_title: true
+display_title: false
 display_image: true
+archive: false
 main_image_path: /assets/images/4b8ff254608bd.jpg
 main_image_caption:
 thumb_crop: true

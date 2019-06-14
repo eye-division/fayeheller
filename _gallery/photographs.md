@@ -1,5 +1,5 @@
 ---
-title: '*'
+title: 'Photographs'
 description_markdown:
 homepage_description_markdown:
 frontpage: true
@@ -7,7 +7,7 @@ frontpagetitle: Photographs
 _gallery_date: 2019-06-01 00:00:00
 permalink: /gallery/photographs/
 archive: false
-display_title: true
+display_title: false
 display_image: false
 main_image_path: /assets/images/4b87fe4471dbd.jpg
 main_image_caption:
