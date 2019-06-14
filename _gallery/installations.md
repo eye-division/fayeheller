@@ -1,6 +1,6 @@
 ---
 title: Installations
-description_markdown:
+description_markdown: 'Hull, UK'
 homepage_description_markdown:
 frontpage: true
 frontpagetitle: Installations
