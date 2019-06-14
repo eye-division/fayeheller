@@ -7,9 +7,9 @@ plugins:
 
 # Site settings
 title: Faye Heller
-subtitle: Faye Heller Eye Gallery built on Bourbon and Neat
+subtitle: Photographer
 name: Faye Heller
-description: Faye Heller gallery
+description: Faye Heller was born in Cornwall in 1972. She slowly made her way up the country (stopping at Plymouth and Farnham) to London, over to Amsterdam, then Brighton where she currently lives with her three children, partner and dog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -141,10 +141,10 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/siteicon.png"
-    fb_image_width: 480
-    fb_image_height: 480
+    fb_image: "/og-image.jpg"
+    fb_image_width: 260
+    fb_image_height: 136
     fb_image_type: "image/png"
 
-    twitter_image: "/siteicon.png"
+    twitter_image: "/og-image.jpg"
 
