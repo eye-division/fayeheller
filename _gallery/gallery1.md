@@ -8,7 +8,7 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/originals/
 archive: false
 display_title: true
-display_image: false
+display_image: true
 main_image_path: /assets/images/5382d552063ae.jpg
 main_image_caption:
 thumb_crop: true
