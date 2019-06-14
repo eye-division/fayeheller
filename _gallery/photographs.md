@@ -9,7 +9,7 @@ permalink: /gallery/photographs/
 archive: false
 display_title: true
 display_image: true
-main_image_path: /assets/images/4b87fe4471dbd.jpg
+main_image_path: /assets/images/44b51d3b65fc1.jpg
 main_image_caption:
 thumb_crop: true
 display_thumb_title: true
