@@ -1,5 +1,5 @@
 ---
-title: 'Originals'
+title: Montage
 description_markdown:
 homepage_description_markdown:
 frontpage: true
@@ -9,11 +9,17 @@ permalink: /gallery/originals/
 archive: false
 display_title: false
 display_image: false
-main_image_path: /assets/images/5382d552063ae.jpg
+main_image_path: /uploads/flowers-on-river-1.jpg
 main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
+  - image_path: /uploads/flowers-on-river.jpg
+    image_title: Flowers on River
+    image_description: Montage 2019
+  - image_path: /uploads/london-flowers.jpg
+    image_title: London Flowers
+    image_description: Montage 2020
   - image_path: /uploads/untitled-2018.JPG
     image_title: Untitled 2016
     image_description:
