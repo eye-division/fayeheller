@@ -3,9 +3,9 @@ title: Montage
 description_markdown:
 homepage_description_markdown:
 frontpage: true
-frontpagetitle: Montages
+frontpagetitle: Montage
 _gallery_date: 2016-05-01 00:00:00
-permalink: /gallery/montages/
+permalink: /gallery/montage/
 archive: false
 display_title: false
 display_image: false
