@@ -38,6 +38,9 @@ images:
   - image_path: /assets/images/5382d7588a9ac.jpg
     image_title: Sea View (Montage)
     image_description:
+  - image_path: /uploads/flowers-on-river.jpg
+    image_title: Flowers on River
+    image_description: Montage 2019
 _options:
   layout:
     hidden: true
