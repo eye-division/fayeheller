@@ -1,11 +1,11 @@
 ---
-title: Larger prints
+title: Larger photographs
 description_markdown: 'Hull, UK'
 homepage_description_markdown:
 _gallery_date: 2019-06-01 00:00:00
 frontpage: true
 frontpagetitle: Larger Photographs
-permalink: /gallery/larger prhotographs/
+permalink: /gallery/larger-photographs/
 display_title: false
 display_image: true
 archive: false
