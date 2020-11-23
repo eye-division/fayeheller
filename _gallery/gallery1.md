@@ -9,7 +9,7 @@ permalink: /gallery/montage/
 archive: false
 display_title: false
 display_image: false
-main_image_path: /uploads/flowers-on-river-1.jpg
+main_image_path: /uploads/flowers-on-river.jpg
 main_image_caption:
 thumb_crop: true
 display_thumb_title: true
