@@ -1,5 +1,5 @@
 ---
-title: 'Photographs'
+title: Large Photographic Prints
 description_markdown:
 homepage_description_markdown:
 frontpage: true
@@ -14,18 +14,18 @@ main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
-  - image_path: /uploads/sky-view.JPG
-    image_title: Sky View
-    image_description: '2014'
+  - image_path: /assets/images/4b87fe4471dbd.jpg
+    image_title: Flat
+    image_description:
   - image_path: /assets/images/4f40d160cc5ac.jpg
     image_title: Wild
     image_description:
   - image_path: /assets/images/47a624fd8d25d.jpg
     image_title: Still Life
     image_description:
-  - image_path: /assets/images/4b87fe4471dbd.jpg
-    image_title: Flat
-    image_description:
+  - image_path: /uploads/sky-view.JPG
+    image_title: Sky View
+    image_description: '2014'
   - image_path: /assets/images/480219599d61c.jpg
     image_title: Swiss
     image_description:
