@@ -20,6 +20,15 @@ images:
   - image_path: /uploads/london-flowers.jpg
     image_title: London Flowers
     image_description: Montage 2020
+  - image_path: /uploads/image0.jpg
+    image_title: '2020'
+    image_description:
+  - image_path: /uploads/image1.jpg
+    image_title: '2020'
+    image_description:
+  - image_path: /uploads/image2.jpg
+    image_title: '2020'
+    image_description:
   - image_path: /uploads/untitled-2018.JPG
     image_title: Untitled 2016
     image_description:
