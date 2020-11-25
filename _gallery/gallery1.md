@@ -44,6 +44,9 @@ images:
   - image_path: /assets/images/5382d7588a9ac.jpg
     image_title: Sea View (Montage)
     image_description:
+  - image_path: /uploads/image0.jpg
+    image_title: '2020'
+    image_description:
 _options:
   layout:
     hidden: true
