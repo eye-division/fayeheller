@@ -26,6 +26,9 @@ images:
   - image_path: /uploads/image1.jpg
     image_title: '2020'
     image_description:
+  - image_path: /uploads/image2.jpg
+    image_title: '2020'
+    image_description:
   - image_path: /uploads/untitled-2018.JPG
     image_title: Untitled 2016
     image_description:
@@ -49,9 +52,6 @@ images:
     image_description:
   - image_path: /assets/images/5382d7588a9ac.jpg
     image_title: Sea View (Montage)
-    image_description:
-  - image_path: /uploads/image2.jpg
-    image_title: '2020'
     image_description:
 _options:
   layout:
