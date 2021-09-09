@@ -1,12 +1,12 @@
 ---
-title: Larger photographs
-description_markdown: 'Hull, UK'
+title: Commissions
+description_markdown: Hull, UK
 homepage_description_markdown:
 _gallery_date: 2019-06-01 00:00:00
 frontpage: true
-frontpagetitle: Larger Photographs
-permalink: /gallery/larger-photographs/
-display_title: false
+frontpagetitle: Commissions
+permalink: /gallery/commissions/
+display_title: true
 display_image: true
 archive: false
 main_image_path: /assets/images/4b8ff254608bd.jpg
@@ -14,6 +14,9 @@ main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
+  - image_path:
+    image_title:
+    image_description:
   - image_path:
     image_title:
     image_description:
