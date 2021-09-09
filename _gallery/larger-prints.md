@@ -17,9 +17,6 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path:
-    image_title:
-    image_description:
   - image_path: /FinishedworkbuttherightwayroundHHHH.jpg
     image_title: Roots
     image_description: >-
@@ -30,6 +27,9 @@ images:
       This image is called Roots. The portrait depicts the writer with a ginger
       plant (Zerumbet Ginger 1776 ref 18195i from the Wellcome collection's
       image library0..
+  - image_path: /finishedwork.jpg
+    image_title: A reason to see the sky
+    image_description:
 _options:
   layout:
     hidden: true
