@@ -28,7 +28,10 @@ images:
       plant (Zerumbet Ginger 1776 ref 18195i from the Wellcome collection's
       image library0..
   - image_path: /finishedwork.jpg
-    image_title: A reason to see the sky
+    image_title: Allotment
+    image_description:
+  - image_path:
+    image_title:
     image_description:
 _options:
   layout:
