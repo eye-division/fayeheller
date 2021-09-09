@@ -7,10 +7,12 @@ frontpagetitle: Montage
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/montage/
 archive: false
-display_title: false
-display_image: false
-main_image_path: /uploads/flowers-on-river.jpg
-main_image_caption:
+display_title: true
+display_image: true
+main_image_path: /StartofFictionsm.jpg
+main_image_caption: >-
+  Start of Fiction - created in 2001 as part of a series combing the ideas of
+  film in one image.
 thumb_crop: true
 display_thumb_title: true
 images:
