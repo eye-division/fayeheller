@@ -1,9 +1,9 @@
 ---
-title: Large Photographic Prints
+title: Commissions
 description_markdown:
 homepage_description_markdown:
 frontpage: true
-frontpagetitle: Photographs
+frontpagetitle: Commissions
 _gallery_date: 2019-06-01 00:00:00
 permalink: /gallery/photographs/
 archive: false
@@ -63,4 +63,5 @@ _comments:
   frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown
 ---
+
 
