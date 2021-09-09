@@ -20,6 +20,16 @@ images:
   - image_path:
     image_title:
     image_description:
+  - image_path: /FinishedworkbuttherightwayroundHHHH.jpg
+    image_title: Roots
+    image_description: >-
+      This image was part of a commission for the Wellcome Commission. The
+      series of stories are called Feelings Through Nature and can be found on
+      the Wellcome collection's website. 
+
+      This image is called Roots. The portrait depicts the writer with a ginger
+      plant (Zerumbet Ginger 1776 ref 18195i from the Wellcome collection's
+      image library0..
 _options:
   layout:
     hidden: true
