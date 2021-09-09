@@ -14,9 +14,6 @@ main_image_caption:
 thumb_crop: true
 display_thumb_title: true
 images:
-  - image_path:
-    image_title:
-    image_description:
   - image_path: /FinishedworkbuttherightwayroundHHHH.jpg
     image_title: Roots
     image_description: >-
@@ -29,9 +26,6 @@ images:
       image library0..
   - image_path: /finishedwork.jpg
     image_title: Allotment
-    image_description:
-  - image_path:
-    image_title:
     image_description:
 _options:
   layout:
@@ -61,4 +55,5 @@ _comments:
   frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown
 ---
+
 
