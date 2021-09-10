@@ -12,7 +12,7 @@ display_image: true
 main_image_path: /StartofFictionsm.jpg
 main_image_caption: >-
   Start of Fiction - created in 2001 as part of a series combing the ideas of
-  film in one image.
+  film in one image
 thumb_crop: true
 display_thumb_title: true
 images:
