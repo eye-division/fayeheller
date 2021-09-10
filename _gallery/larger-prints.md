@@ -10,20 +10,15 @@ display_title: true
 display_image: true
 archive: false
 main_image_path: /assets/images/finished-work-but-the-right-way-round-hhhh.jpg
-main_image_caption: Wellcome Collection Stories commission 2021
+main_image_caption: >-
+  WellThis image was part of a commission for the Wellcome Commission. The
+  series of stories are called Feelings Through Nature and can be found on the
+  Wellcome collection's website.  This image is called Roots. The portrait
+  depicts the writer with a ginger plant (Zerumbet Ginger 1776 ref 18195i from
+  the Wellcome collection's image library
 thumb_crop: false
 display_thumb_title: true
 images:
-  - image_path: /FinishedworkbuttherightwayroundHHHH.jpg
-    image_title: Roots
-    image_description: >-
-      This image was part of a commission for the Wellcome Commission. The
-      series of stories are called Feelings Through Nature and can be found on
-      the Wellcome collection's website. 
-
-      This image is called Roots. The portrait depicts the writer with a ginger
-      plant (Zerumbet Ginger 1776 ref 18195i from the Wellcome collection's
-      image library0..
   - image_path: /allotment.jpg
     image_title: Allotment  for Wellcome Collection commission
     image_description: |-

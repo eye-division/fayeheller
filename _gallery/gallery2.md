@@ -1,5 +1,5 @@
 ---
-title: Selected exhibitions and commissions
+title: Some exhibitions and commissions
 description_markdown:
 homepage_description_markdown:
 _gallery_date:
@@ -21,7 +21,7 @@ images:
     image_title: Departures Magazine
     image_description:
   - image_path: /assets/images/536f73aa09325.jpg
-    image_title: 'Camilla Grimaldi Gallery, London July 2014'
+    image_title: Camilla Grimaldi Gallery, London July 2014
     image_description:
   - image_path: /assets/images/4b8ff254608bd.jpg
     image_title: Beautiful Homes
@@ -57,3 +57,5 @@ _comments:
   frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown
 ---
+
+
