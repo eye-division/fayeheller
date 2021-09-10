@@ -23,9 +23,9 @@ images:
       It is early spring.......
       2021
   - image_path: /a-reason-to-see-the-sky.jpg
-    image_title: A Reason to See the Sky
+    image_title: A Reason to See the Sky (2021)
     image_description: >-
-      This is a portrait for Rowan Hisayo Buchanan, an author who wrote a piece
+      This is a portrait of Rowan Hisayo Buchanan, an author who wrote a piece
       for the Wellcome Collection's Feeling Nature stories feature
   - image_path: /the-water.jpg
     image_title: The Water
