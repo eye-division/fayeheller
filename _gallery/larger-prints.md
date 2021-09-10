@@ -17,26 +17,23 @@ thumb_crop: false
 display_thumb_title: true
 images:
   - image_path: /allotment.jpg
-    image_title: Allotment  for Wellcome Collection commission
+    image_title: 'Allotment  (2021) '
     image_description: |-
       Michael Malay and his allotment in Bristol.
       It is early spring.......
       2021
   - image_path: /a-reason-to-see-the-sky.jpg
-    image_title: A Reason to See the Sky
+    image_title: A Reason to See the Sky (2021)
     image_description: >-
-      This is a portrait for Rowan Hisayo Buchanan, an author who wrote a piece
+      This is a portrait of Rowan Hisayo Buchanan, an author who wrote a piece
       for the Wellcome Collection's Feeling Nature stories feature
   - image_path: /the-water.jpg
-    image_title: The Water
-    image_description: >-
-      Jessica Lee, author, depicted here montaged with the water she wrote about
-      on the Wellcome Collection Stories series. 2021
+    image_title: The Water (2021)
+    image_description: 'Jessica Lee, author, depicted here montaged with her own photos. '
   - image_path: /rock-face.jpg
-    image_title: Rock Face
+    image_title: Rock Face (2021)
     image_description: >-
-      Jennifer Neal, author, writes about her relationship with rock climbing
-      for the Wellcome Collection stories series, 2001.
+      Jennifer Neal, author, writes about her relationship with rock climbing.
 
       I used a portrait and rock surfaces from an image from the Wellcome
       collection's image library.
