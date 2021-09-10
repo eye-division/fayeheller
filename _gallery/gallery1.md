@@ -25,9 +25,6 @@ images:
   - image_path: /uploads/flowers-on-river.jpg
     image_title: Flowers on River
     image_description: Montage 2019
-  - image_path: /uploads/image0.jpg
-    image_title: '2020'
-    image_description:
   - image_path: /uploads/image1.jpg
     image_title: '2020'
     image_description:
@@ -40,15 +37,6 @@ images:
   - image_path: /assets/images/5382d49f381e4.jpg
     image_title: Reflecting (Montage)
     image_description:
-  - image_path: /uploads/show-3-montages.JPG
-    image_title: Three montages 2015
-    image_description:
-  - image_path: /assets/images/53ca16774b866.jpg
-    image_title: Into the Void 1
-    image_description:
-  - image_path: /assets/images/54d25a9c5a2fb.jpg
-    image_title: Into the Void 3
-    image_description:
   - image_path: /assets/images/5382d552063ae.jpg
     image_title: Sky View (Montage)
     image_description:
@@ -57,9 +45,6 @@ images:
     image_description:
   - image_path: /assets/images/5382d7588a9ac.jpg
     image_title: Sea View (Montage)
-    image_description:
-  - image_path:
-    image_title:
     image_description:
 _options:
   layout:

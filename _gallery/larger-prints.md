@@ -1,5 +1,5 @@
 ---
-title: Commissions
+title: Some commissioned images
 description_markdown: Wellcome Collection Stories commission 2021
 homepage_description_markdown:
 _gallery_date: 2019-06-01 00:00:00
@@ -30,6 +30,11 @@ images:
       Michael Malay and his allotment in Bristol.
       It is early spring.......
       2021
+  - image_path: /a-reason-to-see-the-sky.jpg
+    image_title: A Reason to See the Sky
+    image_description: >-
+      This is a portrait for Rowan Hisayo Buchanan, an author who wrote a piece
+      for the Wellcome Collection's Feeling Nature stories feature
 _options:
   layout:
     hidden: true
@@ -58,4 +63,5 @@ _comments:
   frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown
 ---
+
 
