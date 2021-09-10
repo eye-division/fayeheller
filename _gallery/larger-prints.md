@@ -14,9 +14,6 @@ main_image_caption: Wellcome Collection Stories commission 2021
 thumb_crop: false
 display_thumb_title: true
 images:
-  - image_path: /finishedwork.jpg
-    image_title: Allotment
-    image_description:
   - image_path: /FinishedworkbuttherightwayroundHHHH.jpg
     image_title: Roots
     image_description: >-
@@ -27,6 +24,12 @@ images:
       This image is called Roots. The portrait depicts the writer with a ginger
       plant (Zerumbet Ginger 1776 ref 18195i from the Wellcome collection's
       image library0..
+  - image_path: /allotment.jpg
+    image_title: Allotment  for Wellcome Collection commission
+    image_description: |-
+      Michael Malay and his allotment in Bristol.
+      It is early spring.......
+      2021
 _options:
   layout:
     hidden: true
