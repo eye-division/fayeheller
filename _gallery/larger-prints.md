@@ -30,6 +30,11 @@ images:
     image_description: >-
       This is a portrait for Rowan Hisayo Buchanan, an author who wrote a piece
       for the Wellcome Collection's Feeling Nature stories feature
+  - image_path: /the-water.jpg
+    image_title: The Water
+    image_description: >-
+      Jessica Lee, author, depicted here montaged with the water she wrote about
+      on the Wellcome Collection Stories series. 2021
 _options:
   layout:
     hidden: true
