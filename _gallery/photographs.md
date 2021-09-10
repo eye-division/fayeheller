@@ -1,5 +1,5 @@
 ---
-title: Commissions
+title: Photographs
 description_markdown:
 homepage_description_markdown:
 frontpage: true

@@ -1,6 +1,6 @@
 ---
 title: Commissions
-description_markdown: Hull, UK
+description_markdown: Wellcome Collection Stories commission 2021
 homepage_description_markdown:
 _gallery_date: 2019-06-01 00:00:00
 frontpage: true
@@ -9,9 +9,9 @@ permalink: /gallery/commissions/
 display_title: true
 display_image: true
 archive: false
-main_image_path: /assets/images/4b8ff254608bd.jpg
-main_image_caption:
-thumb_crop: true
+main_image_path: /assets/images/finished-work-but-the-right-way-round-hhhh.jpg
+main_image_caption: Wellcome Collection Stories commission 2021
+thumb_crop: false
 display_thumb_title: true
 images:
   - image_path: /FinishedworkbuttherightwayroundHHHH.jpg
@@ -24,9 +24,12 @@ images:
       This image is called Roots. The portrait depicts the writer with a ginger
       plant (Zerumbet Ginger 1776 ref 18195i from the Wellcome collection's
       image library0..
-  - image_path: /finishedwork.jpg
-    image_title: Allotment
-    image_description:
+  - image_path: /allotment.jpg
+    image_title: Allotment  for Wellcome Collection commission
+    image_description: |-
+      Michael Malay and his allotment in Bristol.
+      It is early spring.......
+      2021
 _options:
   layout:
     hidden: true
@@ -55,5 +58,4 @@ _comments:
   frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown
 ---
-
 
