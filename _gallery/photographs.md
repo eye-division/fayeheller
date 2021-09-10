@@ -3,7 +3,7 @@ title: Photographs
 description_markdown:
 homepage_description_markdown:
 frontpage: true
-frontpagetitle: Commissions
+frontpagetitle: Photographs
 _gallery_date: 2019-06-01 00:00:00
 permalink: /gallery/photographs/
 archive: false
