@@ -9,9 +9,9 @@ permalink: /gallery/commissions/
 display_title: true
 display_image: true
 archive: false
-main_image_path: /assets/images/4b8ff254608bd.jpg
-main_image_caption:
-thumb_crop: true
+main_image_path: /assets/images/finished-work-but-the-right-way-round-hhhh.jpg
+main_image_caption: Wellcome Collection Stories commission 2021
+thumb_crop: false
 display_thumb_title: true
 images:
   - image_path: /finishedwork.jpg
