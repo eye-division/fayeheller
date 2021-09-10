@@ -29,9 +29,6 @@ images:
   - image_path: /uploads/untitled-2018.JPG
     image_title: Untitled 2016
     image_description:
-  - image_path: /assets/images/5382d49f381e4.jpg
-    image_title: Reflecting (Montage)
-    image_description:
   - image_path: /assets/images/5382d552063ae.jpg
     image_title: Sky View (Montage)
     image_description:
