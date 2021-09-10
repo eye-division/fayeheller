@@ -43,6 +43,9 @@ images:
 
       I used a portrait and rock surfaces from an image from the Wellcome
       collection's image library.
+  - image_path: /assets/images/finished-work-but-the-right-way-round-hhhh-1.jpg
+    image_title: Roots
+    image_description:
 _options:
   layout:
     hidden: true
