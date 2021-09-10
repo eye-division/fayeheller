@@ -1,6 +1,6 @@
 ---
 title: Commissions
-description_markdown: Hull, UK
+description_markdown: Wellcome Collection Stories commission 2021
 homepage_description_markdown:
 _gallery_date: 2019-06-01 00:00:00
 frontpage: true
