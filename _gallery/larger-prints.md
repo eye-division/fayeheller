@@ -15,7 +15,7 @@ main_image_caption: >-
   stories are called Feelings Through Nature and can be found on the Wellcome
   collection's website.  This image is called Roots. The portrait depicts the
   writer with a ginger plant (Zerumbet Ginger 1776 ref 18195i from the Wellcome
-  collection's image library
+  collection's image library).
 thumb_crop: false
 display_thumb_title: true
 images:
