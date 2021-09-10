@@ -12,9 +12,7 @@ archive: false
 main_image_path: /feeling-through-nature.jpg
 main_image_caption: >-
   The series of stories and my illustrations can be found on the Wellcome
-  collection's website.  This image is called Roots. The portrait depicts the
-  writer with a ginger plant (Zerumbet Ginger 1776 ref 18195i from the Wellcome
-  collection's image library).
+  collection's website.  
 thumb_crop: false
 display_thumb_title: true
 images:
@@ -43,8 +41,8 @@ images:
       I used a portrait and rock surfaces from an image from the Wellcome
       collection's image library.
   - image_path: /assets/images/finished-work-but-the-right-way-round-hhhh-1.jpg
-    image_title: Roots
-    image_description:
+    image_title: Roots  (2021)
+    image_description: ' This portrait depicts the writer with a ginger plant (Zerumbet Ginger 1776 ref 18195 from the Wellcome Collection''s image library).'
 _options:
   layout:
     hidden: true
