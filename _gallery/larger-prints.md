@@ -17,7 +17,7 @@ thumb_crop: false
 display_thumb_title: true
 images:
   - image_path: /allotment.jpg
-    image_title: Allotment  for Wellcome Collection commission
+    image_title: 'Allotment  (2021) '
     image_description: |-
       Michael Malay and his allotment in Bristol.
       It is early spring.......
