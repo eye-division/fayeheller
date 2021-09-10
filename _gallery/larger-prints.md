@@ -35,6 +35,14 @@ images:
     image_description: >-
       Jessica Lee, author, depicted here montaged with the water she wrote about
       on the Wellcome Collection Stories series. 2021
+  - image_path: /rock-face.jpg
+    image_title: Rock Face
+    image_description: >-
+      Jennifer Neal, author, writes about her relationship with rock climbing
+      for the Wellcome Collection stories series, 2001.
+
+      I used a portrait and rock surfaces from an image from the Wellcome
+      collection's image library.
 _options:
   layout:
     hidden: true
