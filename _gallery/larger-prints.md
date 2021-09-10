@@ -1,5 +1,5 @@
 ---
-title: Some commissioned images
+title: Commissioned images
 description_markdown: Wellcome Collection Stories commission 2021
 homepage_description_markdown:
 _gallery_date: 2019-06-01 00:00:00
@@ -9,7 +9,7 @@ permalink: /gallery/commissions/
 display_title: true
 display_image: true
 archive: false
-main_image_path: /feeling-through-nature.jpg
+main_image_path: /header-bigger.jpg
 main_image_caption: >-
   The series of stories and my illustrations can be found on the Wellcome
   collection's website.  
