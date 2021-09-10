@@ -19,9 +19,6 @@ images:
   - image_path: /uploads/london-flowers.jpg
     image_title: London Flowers
     image_description: Montage 2020
-  - image_path: /uploads/london-flowers.jpg
-    image_title: London Flowers
-    image_description: Montage 2020
   - image_path: /uploads/flowers-on-river.jpg
     image_title: Flowers on River
     image_description: Montage 2019
