@@ -20,6 +20,8 @@ url: "https://www.fayeheller.com"
 logo: "/siteicon.png"
 email: "fayeheller@btinternet.com"
 
+show_social_top: true
+
 # Build settings
 markdown: kramdown
 
@@ -111,10 +113,11 @@ social:
     share: false
 
   - name: Instagram
-    icon: instagram
-    username:
-    url:
-    desc: Follow me on Instagram
+    icon: icon-instagram
+    username: '@faye_heller'
+    url: 'https://www.instagram.com/faye_heller'
+    desc: Follow us on Instagram
+    title: Instagram icon
     share: false
 
   - name: Pinterest
