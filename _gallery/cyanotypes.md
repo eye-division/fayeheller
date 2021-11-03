@@ -18,6 +18,9 @@ description_markdown: >-
     and potassium ferricyanide (red crystals). This substance when mixed is
     sensitive to ultraviolet light (sunlight), the results are Prussian
     blueprints.
+
+
+    &nbsp;
 homepage_description_markdown:
 frontpage: true
 frontpagetitle:
@@ -63,3 +66,5 @@ _comments:
     frontpagetitle: Title for homepage display
     homepage_description_markdown: Text used on homepage if shown
 ---
+
+
