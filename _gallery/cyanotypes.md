@@ -31,13 +31,14 @@ archive: false
 main_image_path: /uploads/cards.jpg
 main_image_caption: Cyanotype cards
 display_title: true
-display_image: false
+display_image: true
 thumb_crop: true
 display_thumb_title: true
 images:
-    -   image_path:
-        image_title:
-        image_description:
+    -
+        image_path: /uploads/fern-2.jpg
+        image_title: Fern and grasses in October
+        image_description: 'Cyanotype '
 _options:
     layout:
         hidden: true
