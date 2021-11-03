@@ -1,6 +1,7 @@
 ---
 title: 
 description_markdown: 
+show_description: true
 homepage_description_markdown: 
 frontpage: true
 frontpagetitle: 
