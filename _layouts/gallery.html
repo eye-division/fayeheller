@@ -12,6 +12,13 @@ layout: default
 
   <article>
 
+    {% if page.description_markdown and page.show_description %}
+
+      {{ page.description_markdown | markdownify }}
+
+
+    {% endif %}
+
     {% if page.main_image_path and page.display_image %}
 
       <figure class="gallery--feature">

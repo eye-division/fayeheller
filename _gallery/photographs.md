@@ -1,6 +1,7 @@
 ---
 title: Photographs
 description_markdown:
+show_description: false
 homepage_description_markdown:
 frontpage: true
 frontpagetitle: Photographs

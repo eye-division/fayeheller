@@ -1,6 +1,7 @@
 ---
 title: Some exhibitions and commissions
 description_markdown:
+show_description: false
 homepage_description_markdown:
 _gallery_date:
 frontpage: false

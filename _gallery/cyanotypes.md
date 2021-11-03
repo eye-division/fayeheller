@@ -21,11 +21,12 @@ description_markdown: >-
 
 
     &nbsp;
+show_description: true
 homepage_description_markdown:
 frontpage: true
-frontpagetitle: Cyanotypes
+frontpagetitle: 'Cyanotypes'
 _gallery_date:
-permalink:
+permalink: '/gallery/cyanotypes/'
 archive: false
 main_image_path: /uploads/cards.jpg
 main_image_caption: Cyanotype cards
