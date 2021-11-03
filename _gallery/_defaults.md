@@ -31,7 +31,7 @@ _options:
     resize_style: "contain"
     mime_type: "image/jpeg"
 _comments:
-title: Gallery title
+  title: Gallery title
   permalink: Edit the web address here - letters and hyphen only
   display_image: Show featured image at the top of the gallery
   display_title: Show the title at the top of the gallery
