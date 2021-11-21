@@ -1,6 +1,17 @@
 ---
 title: Cyanotypes
 description_markdown: >-
+    **Cards**
+
+
+    **I have a new selection of printed Cyanotype cards for sale at Tom Foolery
+    Coffee Company, Shoreham-on-sea, West Sussex, and Welcombe Pottery,
+    Welcombe, Devon. &nbsp;**
+
+
+    **Contact me if you would like further info.**
+
+
     **Cyanotypes – a very brief intro**
 
 
@@ -24,9 +35,9 @@ description_markdown: >-
 show_description: true
 homepage_description_markdown:
 frontpage: true
-frontpagetitle: 'Cyanotypes'
+frontpagetitle: Cyanotypes
 _gallery_date:
-permalink: '/gallery/cyanotypes/'
+permalink: /gallery/cyanotypes/
 archive: false
 main_image_path: /uploads/cards.jpg
 main_image_caption: Cyanotype cards
