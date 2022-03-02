@@ -1,9 +1,8 @@
 ---
 title: Cyanotypes workshops
 description_markdown: >-
-    Next workshop Plot 22 - 13th March 11am - 1pm.&nbsp; Tickets will be
-    avaliable on Plot 22 website.&nbsp; &nbsp; &nbsp; &nbsp;More dates will be
-    published asap&nbsp;&nbsp;
+    Next workshop Plot 22 - 13th March 11am - 1pm. Tickets will be avaliable on
+    Plot 22 website. More dates will be published asap
 
 
     Create fascinating cyanotype prints with camera-less photography. Using
@@ -18,7 +17,7 @@ description_markdown: >-
 
     “What a full rounded positive learning experience with great company, a
     clear and lovely Tutor and an amazing washing line of inspired, unique and
-    quite ethereal nature prints at the end.”&nbsp;
+    quite ethereal nature prints at the end.”
 
 
     “A great taster and introduction to the techniques and now I’m keen to
@@ -33,7 +32,7 @@ description_markdown: >-
 
     **I have a new selection of printed Cyanotype cards for sale at Tom Foolery
     Coffee Company, Shoreham-on-sea, West Sussex, and Welcombe Pottery,
-    Welcombe, Devon. &nbsp;**
+    Welcombe, Devon. **
 
 
     **Contact me if you would like further info.**
@@ -56,9 +55,6 @@ description_markdown: >-
     and potassium ferricyanide (red crystals). This substance when mixed is
     sensitive to ultraviolet light (sunlight), the results are Prussian
     blueprints.
-
-
-    &nbsp;
 show_description: true
 homepage_description_markdown:
 frontpage: true
@@ -66,7 +62,7 @@ frontpagetitle: Cyanotypes
 _gallery_date:
 permalink: /gallery/cyanotypes/
 archive: false
-main_image_path: /uploads/cards.jpg
+main_image_path: /uploads/cyan1.jpg
 main_image_caption: Cyanotype cards
 display_title: true
 display_image: true
@@ -105,3 +101,4 @@ _comments:
     frontpagetitle: Title for homepage display
     homepage_description_markdown: Text used on homepage if shown
 ---
+
