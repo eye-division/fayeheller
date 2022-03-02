@@ -66,7 +66,7 @@ frontpagetitle: Cyanotypes
 _gallery_date:
 permalink: /gallery/cyanotypes/
 archive: false
-main_image_path: /uploads/cards.jpg
+main_image_path: /uploads/cyan1.jpg
 main_image_caption: Cyanotype cards
 display_title: true
 display_image: true
@@ -105,3 +105,4 @@ _comments:
     frontpagetitle: Title for homepage display
     homepage_description_markdown: Text used on homepage if shown
 ---
+
