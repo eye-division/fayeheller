@@ -1,6 +1,33 @@
 ---
-title: Cyanotypes
+title: Cyanotypes workshops
 description_markdown: >-
+    Next workshop Plot 22 - 13th March 11am - 1pm.&nbsp; Tickets will be
+    avaliable on Plot 22 website.&nbsp; &nbsp; &nbsp; &nbsp;More dates will be
+    published asap&nbsp;&nbsp;
+
+
+    Create fascinating cyanotype prints with camera-less photography. Using
+    light sensitive papers, we will create beautiful and unique cyan prints. You
+    will learn about cyan prints and go home with your very own creations.
+
+
+    Cyan prints are created using the sun. After selecting your leaves, flowers,
+    grasses, objects, the sun will do its job and you will wash the paper off in
+    water. See what you can create\!
+
+
+    “What a full rounded positive learning experience with great company, a
+    clear and lovely Tutor and an amazing washing line of inspired, unique and
+    quite ethereal nature prints at the end.”&nbsp;
+
+
+    “A great taster and introduction to the techniques and now I’m keen to
+    explore it more. “
+
+
+    Quote from past attendee
+
+
     **Cards**
 
 
@@ -78,5 +105,3 @@ _comments:
     frontpagetitle: Title for homepage display
     homepage_description_markdown: Text used on homepage if shown
 ---
-
-
