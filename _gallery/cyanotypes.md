@@ -1,8 +1,10 @@
 ---
 title: Cyanotypes workshops
 description_markdown: >-
-    Next workshop Plot 22 - 13th March 11am - 1pm. Tickets will be avaliable on
-    Plot 22 website. More dates will be published asap
+    New workshop at Tom Foolery Coffee company. 28th April 2022 6.30pm - 8.30pm
+
+
+    &nbsp;
 
 
     Create fascinating cyanotype prints with camera-less photography. Using
@@ -27,34 +29,57 @@ description_markdown: >-
     Quote from past attendee
 
 
-    **Cards**
-
-
-    **I have a new selection of printed Cyanotype cards for sale at Tom Foolery
-    Coffee Company, Shoreham-on-sea, West Sussex, and Welcombe Pottery,
-    Welcombe, Devon. **
-
-
-    **Contact me if you would like further info.**
-
-
     **Cyanotypes – a very brief intro**
 
 
-    Cyanotypes were Invented by John Herschel in 1841 and then made popular by
-    Anna Atkins who was a photographer and botanist.
+    Cyanotypes were Invented by British Astrologer **Sir John Herschel**
+    (1792-1871) in 1841. He was trying to find a way to duplicate his notes.
 
 
-    It was a low-cost process to produce copies of drawings for engineers well
-    into the 20 century – commonly known as blue-prints. This process was
-    popular in Victorian England but as the photographic process became more
-    sophisticated the photogram/cyan print became used mainly by artists.
+    Herschel managed to fix pictures using hyposulphite of soda as early as
+    1839.
 
 
-    Made by combining two chemicals: Ferric ammonium citrate (a green powder)
-    and potassium ferricyanide (red crystals). This substance when mixed is
-    sensitive to ultraviolet light (sunlight), the results are Prussian
-    blueprints.
+    The cyanotype process was a low-cost method to produce copies of drawings
+    for engineers well into the 20 century – commonly known as blueprints.
+
+
+    He also invented the words photography, negative, positive, and snapshot\!
+
+
+    This process was popular in Victorian England but as the photographic
+    process became more sophisticated the photogram/cyan print was used mainly
+    by artists.
+
+
+    **&nbsp;Anna Atkins**, British Photographer and botanist helped to bring the
+    process its popularity. She was the first person to produce an illustrated
+    book (British Algae: Cyanotype impressions - 1843) using photographic
+    illustrations, back then they were known as shadowgraphs.
+
+
+    In modern times we make cyanotypes by combining two chemicals: Ferric
+    ammonium citrate (a green powder) and potassium ferricyanide (red crystals).
+    This substance when mixed is sensitive to ultraviolet light (sunlight). Once
+    exposed the paper is then simply rinsed off and settled in water resulting
+    in Prussian blue prints.
+
+
+    Further reading
+
+
+    The Bluest of Blues: Anna Atkins and the first book of photographs – Fiona
+    Robinson 2019
+
+
+    [www.alternativephotography.com](http://www.alternativephotography.com)
+
+
+    Blueprints to Cyanotypes – Exploring a historical alternative photographic
+    process – Malin Fabbri and Gary Fabbri
+
+
+    [www.blueprintsonfabric.com](http://www.blueprintsonfabric.com)
 show_description: true
 homepage_description_markdown:
 frontpage: true
