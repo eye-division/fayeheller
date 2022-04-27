@@ -39,16 +39,27 @@ body {
 /// 2. basic grid CSS layout for header, page--content and footer - works without it
 
 @supports (display: grid) {
+  .main {
+    grid-area: main;
+  }
+  header {
+    grid-area: header;
+  }
+  footer {
+    grid-area: footer;
+  }
   body {
     display: grid;
-    grid-template-columns: 1fr 3fr; // 1fr makes footer stick to bottom
+    grid-template-areas:
+      "header main"
+      "footer footer";
 
-    // 1. left navigation and logo
-    // 2. div.page--content
-
-    // 3. footer.site--footer
+    grid-template-columns: minmax(100px, 300px) 3fr; 
+    grid-template-rows: auto;
 
     grid-gap: 1rem;
     align-items: start;
+    justify-items: start;
   }
+  
 }

@@ -1,10 +1,5 @@
 
 .header--wrapper {
-    /* flex horizontal centering */
-    display: flex;
-    justify-content: center;
-    text-decoration: none;
-    flex-flow: row wrap;
 
     &:active,
     &:focus,
@@ -16,9 +11,6 @@
     &:focus {
         outline: none;
     }
-}
-.header--logo {
-
 }
 
 .header--title {
@@ -35,20 +27,6 @@
     }
 }
 
-/// And now, with the grid
-/* https://gridbyexample.com/ */
-@supports (display: grid) {
-    .header--wrapper {
-        display: grid;
-        grid-gap: 10px;
-        justify-items: center;
-    }
-    .header--logo {
-        justify-self: center;
-        width: auto;
-        max-width: 150px;
-    }
-}
 
 .subtitle {
     color: $base-font-color;

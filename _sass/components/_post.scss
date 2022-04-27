@@ -30,7 +30,6 @@
 .post--content { // position right with neat
     @include grid-media($large) {
       padding-left: 1em;
-      flex: 1 100%;
     }
 
 }
