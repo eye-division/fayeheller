@@ -2,8 +2,8 @@
 /// SVG icons
 .icon {
     display: inline-block;
-    width: 30px;
-    height: 30px;
+    width: 50px;
+    height: 50px;
 }
 a:hover .icon,
 a:active .icon { /// hover colour
@@ -26,13 +26,13 @@ a:active .icon { /// hover colour
     width: 20px;
     height: 20px;
 }
-.icon-facebook_sign { fill: $facebook; }
-.icon-instagram { fill: $instagram; }
-.icon-twitter_sign { fill: $twitter; }
-.icon-youtube { fill: $youtube; }
-.icon-soundcloud { fill: $soundcloud; }
-.icon-vimeo_square { fill: $vimeo; }
-.icon-pinterest { fill: $pinterest; }
+.icon-facebook_sign { fill: $black; }
+.icon-instagram { fill: $black; }
+.icon-twitter_sign { fill: $black; }
+.icon-youtube { fill: $black; }
+.icon-soundcloud { fill: $black; }
+.icon-vimeo_square { fill: $black; }
+.icon-pinterest { fill: $black; }
 
 /// vertical align SVG icons in the centre
 a svg {
