@@ -26,21 +26,23 @@
 .gallery--link {
     text-decoration: none;
 }
+
 .gallery--list {
 
     /// make it a flexbox so items can be aligned vertically
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     flex-flow: row wrap;
 
-    // now grid it -- is this really necessary?
+    // now grid it
     /*@supports (display: grid) {
         display: grid;
         grid-gap: 10px;
         grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
     }*/
-
-
+    section {
+        flex: 1 0 50%;
+    }
     a {
         img {
             opacity: 1;
@@ -61,10 +63,16 @@
         &:hover {
             text-decoration: none;
             color: darken($action-color, 20%);
-            h3 {
-                //color: $camouflage;
-            }
+
         }
+    }
+}
+.gallery--list.large {
+    // now grid it
+    @supports (display: grid) {
+        display: grid;
+        grid-gap: 10px;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     }
 }
 .gallery--front {
@@ -75,17 +83,24 @@
 .gallery--header {
     padding: 1em 0;
 }
-.gallery--box {
 
-    @include grid-media ($small) {
-        flex: 0 1 auto;
-    }
+.gallery--box,
+.gallery--box-large  {
+
     margin: 1em;
     text-align: center;
-
 }
 
 .gallery--caption {
     font-style: normal;
 }
+/// Remove widths for grids
+@supports (display: grid) {
 
+  .gallery--box-50,
+  .gallery--box,
+  .gallery--box-large,
+  .gallery--box-home {
+    width: auto;
+  }
+}
