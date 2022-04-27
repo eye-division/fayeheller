@@ -2,13 +2,14 @@
 layout: home
 main_image_path: /assets/images/close-uo.jpg
 main_image_caption:
-show_blog: false
-posts_number: 1
+thumb_crop: true
 show_carousel: false
 carousel:
   - image:
     caption:
     alink:
+show_blog: false
+posts_number: 1
 _options:
   layout:
     hidden: true
@@ -42,35 +43,27 @@ _comments:
 </div>
 
 <section class="gallery--list">
+
 {% for gallery in site.gallery %}
 
+  {% if gallery.frontpage %}
 
+    <div class="gallery--box">
 
-    {% if gallery.main_image_path %}
-      <section class="gallery--cover has--cover" style="background-image: url({{ gallery.main_image_path }});">
-    {% else %}
-      <section class="gallery--cover has--cover" style="background-image: url('https://placekitten.com/g/1200/300');">
+      <a href="{{ gallery.permalink }}" class="gallery--link">
+
+      {% include img.html src=gallery.main_image_path width=400 height=400 fit=crop alt=thisimage.image_title %}
+
+      <figcaption class="gallery--caption">{{ gallery.title }}</figcaption>
+
+      </a>
+
+    </div>
+
     {% endif %}
 
-      <a href="{{ gallery.permalink | prepend: site.baseurl }}">
-
-        <div class="scrim has--cover">
-          <article class="gallery--front">
-            <header class="gallery--header">
-              <h2 class="cover--title mb0">{{ gallery.frontpagetitle }}</h2>
-            </header>
-            {% if gallery.homepage_description_markdown %}
-              {{ gallery.homepage_description_markdown | markdownify }}
-              <span class="post--readmore">Read more <span> <svg class="icon icon--post"><use xlink:href="#icon-double_angle_right" /></svg></span>
-
-            {% endif %}
-        </span>
-      </article>
-      </div>
-      </a>
-    </section>
+  {% endfor %}
 
 
-{% endfor %}
 </section>
 
