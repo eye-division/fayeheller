@@ -1,9 +1,6 @@
 ---
 title: Cyanotypes workshops
 description_markdown: >-
-    New workshop at Tom Foolery Coffee company. 28th April 2022 6.30pm - 8.30pm
-
-
     &nbsp;
 
 
@@ -126,4 +123,3 @@ _comments:
     frontpagetitle: Title for homepage display
     homepage_description_markdown: Text used on homepage if shown
 ---
-
