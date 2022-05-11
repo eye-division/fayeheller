@@ -60,6 +60,8 @@
     }
 }
 
+
+
 .gallery--front {
     padding: 0;
     background: rgba(255, 255, 255, 0.7);
@@ -91,7 +93,12 @@
 
 }
 
+.gallery--list.full {
 
+    .gallery--box {
+        flex: 1 0 100%;
+    }
+}
 ///  Cover
 
 .scrim {

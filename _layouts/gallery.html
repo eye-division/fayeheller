@@ -26,11 +26,7 @@ layout: default
 
       {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
 
-      <a href="{% include imgpath.html src=page.main_image_path %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ page.main_image_caption }}">
-
         {% include img.html src=page.main_image_path alt=alt_text %}
-
-      </a>
 
       {% if page.main_image_caption %}
         <figcaption>{{ alt_text }}</figcaption>
@@ -42,7 +38,7 @@ layout: default
 
     {% if page.images[0].image_path %}
 
-    <section class="gallery--list">
+    <section class="gallery--list full">
 
       {% for thisimage in page.images %}
 
@@ -53,8 +49,6 @@ layout: default
 
           <div class="gallery--box">
 
-            <a href="{% include imgpath.html src=image %}" class="gallery--link" data-lightbox="gallery" data-title="{{ thisimage.image_title }} {% if thisimage.image_description %} - {{ thisimage.image_description }}{% endif %}">
-
               {% if page.thumb_crop %}
 
                 <!-- cropped square images -->
@@ -64,16 +58,19 @@ layout: default
               {% else %}
 
                 <!-- full format images -->
-                {% include img.html src=image width=400 fit=clip alt=thisimage.image_title %}
+                {% include img.html src=image fit=clip alt=thisimage.image_title %}
                  <!-- end format images -->
-               {% endif %}
+              {% endif %}
 
-               {% if page.display_thumb_title %}
-                  <figcaption class="gallery--caption">{{ thisimage.image_title }}</figcaption>
+              {% if page.display_thumb_title %}
+                <figcaption class="gallery--caption">{{ thisimage.image_title }}
+                  
+                {% if thisimage.image_description %}
+                  {{ thisimage.image_description  | markdownify }}
                 {% endif %}
 
-            </a>
-
+                </figcaption>
+              {% endif %}
 
 
           </div>

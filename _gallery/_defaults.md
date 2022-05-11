@@ -13,8 +13,7 @@ description_markdown:
 show_description: true
 display_image: false
 display_thumb_title: true
-thumb_crop: true
-lightbox: true
+thumb_crop: false
 images:
   - image_path:
     image_title:

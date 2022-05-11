@@ -8,7 +8,7 @@ frontpage: true
 frontpagetitle: Commissions
 permalink: /gallery/commissions/
 display_title: true
-display_image: true
+display_image: false
 archive: false
 main_image_path: /header-good.jpg
 main_image_caption: >-
