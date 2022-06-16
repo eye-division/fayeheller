@@ -1,7 +1,8 @@
 ---
 title: Cyanotypes workshops
 description_markdown: >-
-    &nbsp;
+    This summer we have a number of workshops happening. The first is with Grow
+    wellbeing.&nbsp;
 
 
     Create fascinating cyanotype prints with camera-less photography. Using
