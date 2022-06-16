@@ -1,36 +1,23 @@
 
 .header--wrapper {
-    /* flex horizontal centering */
-    display: flex;
-    justify-content: center;
     text-decoration: none;
-    flex-flow: row wrap;
-
     &:active,
     &:focus,
     &:hover {
         text-decoration: none;
-        //color: shade($link-color, 10%);
     }
     &:active,
     &:focus {
         outline: none;
     }
 }
-.header--logo {
-
-}
 
 .header--title {
-    align-self: center; // flex centered
-
-    //font-family: $body-font-family;
-    color: $white;
-    text-transform: uppercase;
     text-decoration: none;
+    color: $black;
     margin-top: 0;
     margin-bottom: 1rem;
-
+    line-height: 1;
     font-size: modular-scale(3);
 
     @include grid-media ($small) {
@@ -38,20 +25,6 @@
     }
 }
 
-/// And now, with the grid
-/* https://gridbyexample.com/ */
-@supports (display: grid) {
-    .header--wrapper {
-        display: grid;
-        grid-gap: 10px;
-        justify-items: center;
-    }
-    .header--logo {
-        justify-self: center;
-        width: auto;
-        max-width: 150px;
-    }
-}
 
 .subtitle {
     color: $base-font-color;

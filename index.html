@@ -2,13 +2,14 @@
 layout: home
 main_image_path: /assets/images/close-uo.jpg
 main_image_caption:
+thumb_crop: true
 show_carousel: false
-show_blog: false
-posts_number: 1
 carousel:
   - image:
     caption:
     alink:
+show_blog: false
+posts_number: 1
 _options:
   layout:
     hidden: true
@@ -37,126 +38,32 @@ _comments:
   caption: optional caption
 ---
 
-{% if page.main_image_path %}
-  <!-- parallax picture please -->
-    <figure>
-    {% assign alt_text = page.title %}
-    {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
-    {% include img.html src=page.main_image_path alt=alt_text %}
-    <figcaption>{{ alt_text }}</figcaption>
-    </figure>
-  {% endif %}
+<div class="editable">
 
-  <div class="editable">
+</div>
 
-  </div>
+<section class="gallery--list">
 
-    {% if page.show_carousel and page.carousel %}
-    <section class="slideshow">
-      <h2>This is a demo slideshow</h2>
-      <div class="flexslider">
-          <ul class="slides">
-            {% for slides in page.carousel %}
-            <li>
-              {% if slides.alink %}
-                 <a href="{{ site.baseurl }}{{ slides.alink }}" title="View project">
-              {% endif %}
-              {% include img.html src=slides.image width=960 alt=slides.caption %}
-              {% if slides.alink %}
-                </a>
-              {% endif %}
-              {% if slides.caption %}
-                <p class="flex-caption">{% if slides.alink %}<a href="{{ site.baseurl }}{{ slides.alink }}" title="View project">{% endif %}{{ slides.caption }}{% if slides.alink %}&nbsp;<svg class="icon icon__white icon--readmore"><use xmlns:xlink="https://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg></a>{% endif %}</p>
-              {% endif %}
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-      </section>
-      {% endif %}
+{% for gallery in site.gallery %}
 
-      <!-- Regular page promotions on front page -->
-      {% for section in site.pages %}
+  {% if gallery.frontpage %}
 
-      {% if section.frontpage %}
+    <div class="gallery--box">
 
-        {% if section.main_image_path %}
-          <section class="gallery--cover has--cover" style="background-image: url({{ section.main_image_path }});">
-        {% else %}
-          <section class="gallery--cover has--cover" style="background-image: url('https://placekitten.com/g/1200/300');">
-        {% endif %}
+      <a href="{{ gallery.permalink }}" class="gallery--link">
 
-          <a href="{{ section.url | prepend: site.baseurl }}">
+      {% include img.html src=gallery.main_image_path width=400 height=400 fit=crop alt=thisimage.image_title %}
 
-            <div class="scrim has--cover">
-              <article class="gallery--front">
-                <header class="gallery--header">
-                  <h2 class="cover--title mb0">{{ section.frontpagetitle }}</h2>
-                </header>
-                {% if section.homepage_description_markdown %}
-                  {{ section.homepage_description_markdown | markdownify }}
-                  <span class="post--readmore">Read more <span> <svg class="icon icon--post"><use xlink:href="#icon-double_angle_right" /></svg></span>
+      <figcaption class="gallery--caption">{{ gallery.title }}</figcaption>
 
-                {% endif %}
-            </span>
-          </article>
-          </div>
-          </a>
-        </section>
+      </a>
 
-      {% endif %}
+    </div>
 
-    {% endfor %}
+    {% endif %}
 
-      <!-- Galleries -->
-    {% for gallery in site.gallery %}
-
-      {% if gallery.frontpage %}
-
-        <section class="gallery--cover {% if gallery.main_image_path %}has--cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
-
-          <a href="{{ gallery.url }}">
-
-            <div class="scrim {% if gallery.main_image_path %}has--cover{% endif %}">
-              <article class="gallery--front">
-                <header class="gallery--header">
-                  <h2 class="cover--title mb0">{{ gallery.frontpagetitle }}</h2>
-                </header>
-                {% if gallery.homepage_description_markdown %}
-                  {{ gallery.homepage_description_markdown | markdownify }} <span class="post--readmore">View gallery  <svg class="icon icon--post"><use xlink:href="#icon-double_angle_right" /></svg></span>
-                {% endif %}
-              </article>
-            </div>
-          </a>
-        </section>
-
-      {% endif %}
-
-    {% endfor %}
+  {% endfor %}
 
 
-{% if page.show_blog %}
+</section>
 
-    <section class="blog blog--home">
-
-      <div class="editable">
-        <h2>Latest news</h2>
-      </div>
-
-      <ul class="posts--list">
-
-        {% for post in site.posts limit:page.posts_number %}
-
-         {% unless post.categories contains 'Archive' %}
-
-          {% include post_excerpt.html %}
-
-        {% endunless %}
-
-        {% endfor %}
-
-      </ul>
-      <p><a href="/news/">Read all news&nbsp;&raquo;</a></p>
-
-    </section>
-    {% endif %}</section>

@@ -1,43 +1,43 @@
 ---
-title: 
+title: Paintings
 display_title: true
-homepage_description_markdown: 
+homepage_description_markdown:
 frontpage: true
-frontpagetitle: 
-gallery_date: 
-permalink:
+frontpagetitle: Paintings
+gallery_date: 2022-04-27 00:00:00
+permalink: /paintings/
 archive: false
-main_image_path:
-main_image_caption: 
-description_markdown: 
+main_image_path: /assets/images/image0.jpeg
+main_image_caption:
+description_markdown:
 show_description: true
 display_image: false
 display_thumb_title: true
 thumb_crop: false
 images:
-  - image_path:
+  - image_path: /assets/images/image0.jpeg
     image_title:
     image_description:
 videos:
-  - youtube: 
-    description: 
+  - youtube:
+    description:
 _options:
   layout:
     hidden: true
   image_path:
-    uploads_dir: "assets/images/:year"
+    uploads_dir: assets/images/:year
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg,image/png,image/gif
   main_image_path:
-    uploads_dir: "assets/images/:year"
+    uploads_dir: assets/images/:year
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg,image/png,image/gif
   content:
-    uploads_dir: "assets/:year"
+    uploads_dir: assets/:year
 _comments:
   title: Gallery title
   order_number: Manually order the galleries
@@ -48,12 +48,13 @@ _comments:
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description:
-  thumb_path: Usually only shown in the image close up
-  image_path: Maximum 1200 pixels 
   thumb_path: Custom thumbnail image
+  image_path: Maximum 1200 pixels
   thumb_crop: Crop thumbnail images to a consistent size
   archive: Hide gallery from public view
-  youtube: Copy the unique video ID. It's the bit after https://youtu.be/ on the YouTube video Share link popup
+  youtube: >-
+    Copy the unique video ID. It's the bit after https://youtu.be/ on the
+    YouTube video Share link popup
   frontpage: Show this gallery on the homepage
   frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown

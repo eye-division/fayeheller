@@ -90,8 +90,8 @@ archive: false
 main_image_path: /uploads/cyan1.jpg
 main_image_caption: Cyanotype cards
 display_title: true
-display_image: true
-thumb_crop: true
+display_image: false
+thumb_crop: false
 display_thumb_title: true
 images:
     -

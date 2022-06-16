@@ -12,7 +12,7 @@ display_image: false
 archive: true
 main_image_path: /assets/images/536f73aa09325.jpg
 main_image_caption:
-thumb_crop: true
+thumb_crop: false
 display_thumb_title: true
 images:
   - image_path: /assets/images/4bd4019596689.jpg

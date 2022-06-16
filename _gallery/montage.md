@@ -1,6 +1,6 @@
 ---
 title: Montage
-description_markdown:
+description_markdown: 
 show_description: false
 homepage_description_markdown:
 frontpage: true
@@ -9,10 +9,11 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/montage/
 archive: false
 display_title: true
-display_image: true
+display_image: false
 main_image_path: /assets/images/5382d49f381e4.jpg
 main_image_caption: 'Reflecting '
-thumb_crop: true
+show_main_image: false
+thumb_crop: false
 display_thumb_title: true
 images:
   - image_path: /uploads/london-flowers.jpg

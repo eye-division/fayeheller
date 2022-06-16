@@ -1,0 +1,26 @@
+/* this was used for front page previously */
+{% if gallery.main_image_path %}
+<section class="gallery--cover has--cover" style="background-image: url({{ gallery.main_image_path }});">
+{% else %}
+<section class="gallery--cover has--cover" style="background-image: url('https://placekitten.com/g/1200/300');">
+{% endif %}
+
+<a href="{{ gallery.permalink | prepend: site.baseurl }}">
+
+  <div class="scrim has--cover">
+    <article class="gallery--front">
+      <header class="gallery--header">
+        <h2 class="cover--title mb0">{{ gallery.frontpagetitle }}</h2>
+      </header>
+      {% if gallery.homepage_description_markdown %}
+        {{ gallery.homepage_description_markdown | markdownify }}
+        <span class="post--readmore">Read more <span> <svg class="icon icon--post"><use xlink:href="#icon-double_angle_right" /></svg></span>
+
+      {% endif %}
+  </span>
+</article>
+</div>
+</a>
+</section>
+
+{% endfor %}
