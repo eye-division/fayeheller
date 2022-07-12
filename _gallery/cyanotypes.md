@@ -1,30 +1,18 @@
 ---
-title: Cyanotypes workshops
+title: 'Cyanotypes '
 description_markdown: >-
     This summer we have a number of workshops happening. The first is with Grow
-    wellbeing.&nbsp;
+    wellbeing, East Sussex. &nbsp;[Home \|
+    GROW-Wellbeing](https://www.grow-wellbeing.com/home){: target="_blank"
+    rel="noopener"}
 
 
-    Create fascinating cyanotype prints with camera-less photography. Using
-    light sensitive papers, we will create beautiful and unique cyan prints. You
-    will learn about cyan prints and go home with your very own creations.
+    Also, workshops with Made and Making in Hassocks, West Sussex
 
 
-    Cyan prints are created using the sun. After selecting your leaves, flowers,
-    grasses, objects, the sun will do its job and you will wash the paper off in
-    water. See what you can create\!
-
-
-    “What a full rounded positive learning experience with great company, a
-    clear and lovely Tutor and an amazing washing line of inspired, unique and
-    quite ethereal nature prints at the end.”
-
-
-    “A great taster and introduction to the techniques and now I’m keen to
-    explore it more. “
-
-
-    Quote from past attendee
+    [Art & printing courses - Made and
+    Making](https://madeandmaking.co.uk/explore-by-category/art-printing){:
+    target="_blank" rel="noopener"}
 
 
     **Cyanotypes – a very brief intro**
