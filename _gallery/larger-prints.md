@@ -1,6 +1,6 @@
 ---
-title: Commissioned images
-description_markdown: Wellcome Collection Stories commission 2021
+title: Commissioned Artworks
+description_markdown: '"Wild Ditchling Common" 2022'
 show_description: true
 homepage_description_markdown:
 _gallery_date: 2019-06-01 00:00:00
@@ -10,10 +10,8 @@ permalink: /gallery/commissions/
 display_title: true
 display_image: false
 archive: false
-main_image_path: /header-good.jpg
-main_image_caption: >-
-  The series of stories and my illustrations can be found on the Wellcome
-  collection's website.  
+main_image_path: /uploads/finishes-small.jpg
+main_image_caption: '"Wild Ditchling Common"  School Mural 2022'
 thumb_crop: false
 display_thumb_title: true
 images:
@@ -69,5 +67,3 @@ _comments:
   frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown
 ---
-
-
