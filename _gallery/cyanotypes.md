@@ -1,13 +1,7 @@
 ---
 title: 'Cyanotypes '
 description_markdown: >-
-    This summer we have a number of workshops happening. The first is with Grow
-    wellbeing, East Sussex. &nbsp;[Home \|
-    GROW-Wellbeing](https://www.grow-wellbeing.com/home){: target="_blank"
-    rel="noopener"}
-
-
-    Also, workshops with Made and Making in Hassocks, West Sussex
+    Workshops with Made and Making in Hassocks, West Sussex
 
 
     [Art & printing courses - Made and
