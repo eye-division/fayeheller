@@ -15,6 +15,9 @@ main_image_caption: '"Wild Ditchling Common"  School Mural 2022'
 thumb_crop: false
 display_thumb_title: true
 images:
+  - image_path: /uploads/finishes-small-1.jpg
+    image_title: Wild Ditchling Common
+    image_description:
   - image_path: /allotment.jpg
     image_title: 'Allotment  (2021) '
     image_description: |-
@@ -67,3 +70,4 @@ _comments:
   frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown
 ---
+
