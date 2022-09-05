@@ -16,13 +16,22 @@ display_thumb_title: true
 thumb_crop: false
 images:
   - image_path: /assets/images/image0.jpeg
-    image_title:
+    image_title: Mount Everest. 2022
     image_description:
   - image_path: /assets/images/mount-everest-back.jpg
     image_title: Mount Everest Black. 2022
     image_description: Acrylic paint on canvas.
   - image_path: /assets/images/green-plants.jpg
-    image_title:
+    image_title: Mount Everest Green. 2022
+    image_description:
+  - image_path: /assets/images/green-cacti-yellow-bg.jpg
+    image_title: Cacti Green. 2022
+    image_description:
+  - image_path: /assets/images/just-yellow-cacti.jpg
+    image_title: Cacti Black. 2022
+    image_description:
+  - image_path: /assets/images/just-yellow-plants.jpg
+    image_title: Mount Everest Yellow. 2022
     image_description:
 videos:
   - youtube:
