@@ -21,6 +21,9 @@ images:
   - image_path: /assets/images/mount-everest-back.jpg
     image_title: Mount Everest Black. 2022
     image_description: Acrylic paint on canvas.
+  - image_path: /assets/images/green-plants.jpg
+    image_title:
+    image_description:
 videos:
   - youtube:
     description:
