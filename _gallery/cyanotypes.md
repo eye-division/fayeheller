@@ -4,8 +4,8 @@ description_markdown: >-
     Workshops with Made and Making in Hassocks, West Sussex
 
 
-    [Art & printing courses - Made and
-    Making](https://madeandmaking.co.uk/explore-by-category/art-printing){:
+    [Cyanotype printing - Made and
+    Making](https://madeandmaking.co.uk/events/cyanotype-printing){:
     target="_blank" rel="noopener"}
 
 
