@@ -78,6 +78,22 @@ images:
         image_path: /uploads/fern-2.jpg
         image_title: Fern and grasses in October
         image_description: 'Cyanotype '
+    -
+        image_path: /uploads/cyanotype-allium.jpg
+        image_title: Allium Cyanotype
+        image_description:
+    -
+        image_path: /uploads/cyanotype-echinacea-paradoxa.jpg
+        image_title: Echinacea Paradoxa Cyanotype
+        image_description:
+    -
+        image_path: /uploads/cyanotype-ferns.jpg
+        image_title: Fern field Cyanotype
+        image_description:
+    -
+        image_path: /uploads/cyanotype-field.jpg
+        image_title: Grass Feild Cyanotype
+        image_description:
 _options:
     layout:
         hidden: true
