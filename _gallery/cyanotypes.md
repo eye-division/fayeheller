@@ -9,6 +9,16 @@ description_markdown: >-
     target="_blank" rel="noopener"}
 
 
+    Card Making Festive Workshop 10th November 2022 Tom Foolery Coffee Company,
+    Shoreham by sea. Click below for tickets&nbsp;&nbsp;
+
+
+    [Festive Winter Cyanotype Card Making Workshop. Tickets, Thu 10 Nov 2022 at
+    18:30 \|
+    Eventbrite](https://www.eventbrite.co.uk/e/festive-winter-cyanotype-card-making-workshop-tickets-423521282557?aff=ebdssbeac){:
+    target="_blank" rel="noopener"}
+
+
     **Cyanotypes – a very brief intro**
 
 
