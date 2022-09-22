@@ -1,6 +1,8 @@
 ---
 title: Commissioned Artworks
-description_markdown: '"Wild Ditchling Common" 2022'
+description_markdown: >-
+  "Wild Ditchling Common" Mural at Ditchling Primary School 2022, with thanks to
+  Ditchling Museum of Arts and Crafts
 show_description: true
 homepage_description_markdown:
 _gallery_date: 2019-06-01 00:00:00
@@ -70,4 +72,3 @@ _comments:
   frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown
 ---
-
