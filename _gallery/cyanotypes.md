@@ -94,7 +94,7 @@ frontpagetitle: Cyanotypes
 _gallery_date:
 permalink: /gallery/cyanotypes/
 archive: false
-main_image_path: /uploads/cyan1.jpg
+main_image_path: /uploads/workshop-view.jpg
 main_image_caption: Cyanotype cards
 display_title: true
 display_image: false
