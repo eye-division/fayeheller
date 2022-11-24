@@ -12,6 +12,19 @@ description_markdown: >-
     you a relaxing, and creative environment for discovery\!&nbsp;
 
 
+    Card Making Festive Workshop 8h December 2022 Tom Foolery Coffee Company,
+    Shoreham by sea. Click below for tickets &nbsp;
+
+
+    [Festive Cyanotype print Card Making Workshop Tickets, Thu 8 Dec 2022 at
+    18:30 \|
+    Eventbrite](https://www.eventbrite.com/e/festive-cyanotype-print-card-making-workshop-tickets-474607733507?utm_source=eventbrite&amp;utm_medium=email&amp;utm_campaign=post_publish&amp;utm_content=shortLinkNewEmail){:
+    target="_blank" rel="noopener"}
+
+
+    &nbsp;
+
+
     Workshops with Made and Making in Hassocks, West Sussex
 
 
@@ -20,14 +33,7 @@ description_markdown: >-
     target="_blank" rel="noopener"}
 
 
-    Card Making Festive Workshop 10th November 2022 Tom Foolery Coffee Company,
-    Shoreham by sea. Click below for tickets&nbsp;&nbsp;
-
-
-    [Festive Winter Cyanotype Card Making Workshop. Tickets, Thu 10 Nov 2022 at
-    18:30 \|
-    Eventbrite](https://www.eventbrite.co.uk/e/festive-winter-cyanotype-card-making-workshop-tickets-423521282557?aff=ebdssbeac){:
-    target="_blank" rel="noopener"}
+    &nbsp;
 
 
     **Cyanotypes – a very brief intro**
@@ -88,7 +94,7 @@ frontpagetitle: Cyanotypes
 _gallery_date:
 permalink: /gallery/cyanotypes/
 archive: false
-main_image_path: /uploads/cyan1.jpg
+main_image_path: /uploads/workshop-view.jpg
 main_image_caption: Cyanotype cards
 display_title: true
 display_image: false
