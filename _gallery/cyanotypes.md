@@ -12,8 +12,9 @@ description_markdown: >-
     you a relaxing, and creative environment for discovery!&nbsp;
 
 
-    Next workshop is in the beautiful Lawrence Art Studio in Hove, Brighton.
-    Click below for booking and details&nbsp;
+    Next workshop is in the beautiful Lawrence Art Studio in Hove,
+    Brighton.&nbsp;[...](https://www.eventbrite.co.uk/e/nature-printing-with-the-sun-cyanotype-workshop-tickets-591305700267)
+    booking and details&nbsp;
 
 
     &nbsp; &nbsp;[…](Click for info and booking
