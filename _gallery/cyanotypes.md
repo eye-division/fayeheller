@@ -4,25 +4,15 @@ description_markdown: >-
     During my workshops you will learn about the process of this beautiful,
     magical blue Cyanotypes. We will explore the fauna and flora of green
     spaces, choose and design prints using flowers, leaves, grasses, bits and
-    bobs. You will never look at a weed in the same way again\!
+    bobs. You will never look at a weed in the same way again!
 
 
     Sometimes my workshops are outside in woodlands or allotments, sometimes
     within coffee shops or inside spaces. Wherever they are I hope to bring to
-    you a relaxing, and creative environment for discovery\!&nbsp;
+    you a relaxing, and creative environment for discovery!&nbsp;
 
 
-    Card Making Festive Workshop 8h December 2022 Tom Foolery Coffee Company,
-    Shoreham by sea. Click below for tickets &nbsp;
-
-
-    [Festive Cyanotype print Card Making Workshop Tickets, Thu 8 Dec 2022 at
-    18:30 \|
-    Eventbrite](https://www.eventbrite.com/e/festive-cyanotype-print-card-making-workshop-tickets-474607733507?utm_source=eventbrite&amp;utm_medium=email&amp;utm_campaign=post_publish&amp;utm_content=shortLinkNewEmail){:
-    target="_blank" rel="noopener"}
-
-
-    &nbsp;
+    https://www.eventbrite.co.uk/e/nature-printing-with-the-sun-cyanotype-workshop-tickets-591305700267
 
 
     Workshops with Made and Making in Hassocks, West Sussex
@@ -31,9 +21,6 @@ description_markdown: >-
     [Cyanotype printing - Made and
     Making](https://madeandmaking.co.uk/events/cyanotype-printing){:
     target="_blank" rel="noopener"}
-
-
-    &nbsp;
 
 
     **Cyanotypes – a very brief intro**
@@ -51,7 +38,7 @@ description_markdown: >-
     for engineers well into the 20 century – commonly known as blueprints.
 
 
-    He also invented the words photography, negative, positive, and snapshot\!
+    He also invented the words photography, negative, positive, and snapshot!
 
 
     This process was popular in Victorian England but as the photographic
@@ -88,7 +75,7 @@ description_markdown: >-
 
     [www.blueprintsonfabric.com](http://www.blueprintsonfabric.com)
 show_description: true
-homepage_description_markdown:
+homepage_description_markdown: ''
 frontpage: true
 frontpagetitle: Cyanotypes
 _gallery_date:
