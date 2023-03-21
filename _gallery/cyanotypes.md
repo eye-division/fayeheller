@@ -16,7 +16,8 @@ description_markdown: >-
     Click below for booking and details&nbsp;
 
 
-    https://www.eventbrite.co.uk/e/nature-printing-with-the-sun-cyanotype-workshop-tickets-591305700267
+    [...](https://www.eventbrite.co.uk/e/nature-printing-with-the-sun-cyanotype-workshop-tickets-591305700267){:
+    target="_blank" rel="noopener"}
 
 
     Workshops with Made and Making in Hassocks, West Sussex
