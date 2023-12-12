@@ -1,20 +1,23 @@
 ---
 title: Paintings
 display_title: true
-homepage_description_markdown:
+homepage_description_markdown: ''
 frontpage: true
 frontpagetitle: Paintings
 gallery_date: 2022-04-27 00:00:00
 permalink: /paintings/
 archive: false
-main_image_path: /assets/images/image0.jpeg
-main_image_caption:
-description_markdown:
+main_image_path: /assets/images/cyan-paintings-1.jpg
+main_image_caption: Cyan paintings
+description_markdown: ''
 show_description: true
 display_image: false
 display_thumb_title: true
 thumb_crop: false
 images:
+  - image_path: /assets/images/cyan-paintings-1.jpg
+    image_title: Cyan painting
+    image_description: '2023'
   - image_path: /assets/images/image0.jpeg
     image_title: Mount Everest. 2022
     image_description:
