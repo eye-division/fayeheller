@@ -14,7 +14,7 @@ display_image: false
 archive: false
 main_image_path: /uploads/finishes-small.jpg
 main_image_caption: '"Wild Ditchling Common"  School Mural 2022'
-thumb_crop: false
+thumb_crop: true
 display_thumb_title: true
 images:
   - image_path: /uploads/finishes-small-1.jpg
