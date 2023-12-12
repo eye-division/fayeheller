@@ -4,30 +4,12 @@ description_markdown: >-
     During my workshops you will learn about the process of this beautiful,
     magical blue Cyanotypes. We will explore the fauna and flora of green
     spaces, choose and design prints using flowers, leaves, grasses, bits and
-    bobs. You will never look at a weed in the same way again!
+    bobs. You will never look at a weeds in the same way again!
 
 
     Sometimes my workshops are outside in woodlands or allotments, sometimes
     within coffee shops or inside spaces. Wherever they are I hope to bring to
     you a relaxing, and creative environment for discovery!&nbsp;
-
-
-    Next workshop is in the beautiful Lawrence Art Studio in Hove,
-    Brighton.&nbsp;[...](https://www.eventbrite.co.uk/e/nature-printing-with-the-sun-cyanotype-workshop-tickets-591305700267)
-    booking and details&nbsp;
-
-
-    &nbsp; &nbsp;[…](Click for info and booking
-    https://www.eventbrite.co.uk/e/nature-printing-with-the-sun-cyanotype-workshop-tickets-591305700267){:
-    target="_blank" rel="noopener"}
-
-
-    Workshops with Made and Making in Hassocks, West Sussex
-
-
-    [Cyanotype printing - Made and
-    Making](https://madeandmaking.co.uk/events/cyanotype-printing){:
-    target="_blank" rel="noopener"}
 
 
     **Cyanotypes – a very brief intro**
@@ -53,7 +35,7 @@ description_markdown: >-
     by artists.
 
 
-    **&nbsp;Anna Atkins**, British Photographer and botanist helped to bring the
+    &nbsp;**Anna Atkins**, British Photographer and botanist helped to bring the
     process its popularity. She was the first person to produce an illustrated
     book (British Algae: Cyanotype impressions - 1843) using photographic
     illustrations, back then they were known as shadowgraphs.
