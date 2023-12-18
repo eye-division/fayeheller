@@ -4,6 +4,7 @@ description_markdown:
 show_description: false
 homepage_description_markdown:
 frontpage: true
+frontpageorder: 5
 frontpagetitle: Montage
 _gallery_date: 2016-05-01 00:00:00
 permalink: /gallery/montage/
