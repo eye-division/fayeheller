@@ -44,7 +44,9 @@ _comments:
 
 <section class="gallery--list">
 
-{% for gallery in site.gallery %}
+{% assign items = site.gallery | sort: 'frontpageorder' %}
+
+{% for gallery in items %}
 
   {% if gallery.frontpage %}
 
