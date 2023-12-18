@@ -4,6 +4,7 @@ description_markdown:
 show_description: false
 homepage_description_markdown:
 frontpage: true
+frontpageorder: 1
 frontpagetitle: Photographs
 _gallery_date: 2019-06-01 00:00:00
 permalink: /gallery/photographs/

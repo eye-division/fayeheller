@@ -66,6 +66,7 @@ description_markdown: >-
 show_description: true
 homepage_description_markdown: ''
 frontpage: true
+frontpageorder: 4
 frontpagetitle: Cyanotypes
 _gallery_date:
 permalink: /gallery/cyanotypes/

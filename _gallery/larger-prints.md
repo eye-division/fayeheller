@@ -7,6 +7,7 @@ show_description: true
 homepage_description_markdown: ''
 _gallery_date: 2019-06-01 00:00:00
 frontpage: true
+frontpageorder: 3
 frontpagetitle: Commissions
 permalink: /gallery/commissions/
 display_title: true
