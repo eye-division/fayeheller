@@ -3,6 +3,7 @@ title: Paintings
 display_title: true
 homepage_description_markdown: ''
 frontpage: true
+frontpageorder: 2
 frontpagetitle: Paintings
 gallery_date: 2022-04-27 00:00:00
 permalink: /paintings/
