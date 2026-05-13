@@ -44,27 +44,17 @@ _comments:
 
 <section class="gallery--list full">
 
-{% assign items = site.gallery | sort: 'frontpageorder' %}
-
-{% for gallery in items %}
-
-  {% if gallery.frontpage %}
-
-    <div class="gallery--box">
-
-      <a href="{{ gallery.permalink }}" class="gallery--link">
-
-      {% include img.html src=gallery.main_image_path width=400 height=400 fit=crop alt=thisimage.image_title %}
-
-      <figcaption class="gallery--caption">{{ gallery.title }}</figcaption>
-
-      </a>
-
-    </div>
-
-    {% endif %}
-
-  {% endfor %}
+  
+  <div class="gallery--box">
+  
+       <!-- full format images -->
+      {% include img.html src=main_image_path fit=clip alt=main_image_caption %}
+      <!-- end format images -->
+       
+      <figcaption class="gallery--caption">{{ main_image_caption }}</figcaption>
+  
+  
+  </div>
 
 
 </section>
