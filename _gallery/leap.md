@@ -16,8 +16,8 @@ show_main_image: true
 thumb_crop: false
 display_thumb_title: true
 images:
-  - image_path: /uploads/leap-1.jpg
-    image_title: Leap
+  - image_path:
+    image_title:
     image_description:
 _options:
   layout:
