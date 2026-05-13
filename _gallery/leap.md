@@ -7,7 +7,7 @@ _gallery_date:
 frontpage: false
 frontpagetitle: Leap
 permalink: /gallery/leap
-display_title: true
+display_title: false
 display_image: true
 archive: false
 main_image_path: /uploads/leap.jpg

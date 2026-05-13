@@ -1,5 +1,5 @@
 ---
-title: 'Leap '
+title:
 display_title: true
 homepage_description_markdown:
 frontpage: true
