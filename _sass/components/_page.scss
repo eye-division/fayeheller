@@ -7,7 +7,7 @@
    padding: 0 1em 1em;
 
   @include grid-media ($small) {
-    padding: 1em;
+    padding: 1em 1em 1em 0;
   }
 }
 

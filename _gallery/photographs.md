@@ -16,6 +16,9 @@ main_image_caption:
 thumb_crop: false
 display_thumb_title: true
 images:
+  - image_path: /uploads/adobe-express-file.jpg
+    image_title: Leap 2
+    image_description:
   - image_path: /assets/images/4b87fe4471dbd.jpg
     image_title: Flat
     image_description:
@@ -65,5 +68,3 @@ _comments:
   frontpagetitle: Title for homepage display
   homepage_description_markdown: Text used on homepage if shown
 ---
-
-
