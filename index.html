@@ -48,10 +48,10 @@ _comments:
   <div class="gallery--box">
   
        <!-- full format images -->
-      {% include img.html src=main_image_path fit=clip alt=main_image_caption %}
+      {% include img.html src=page.main_image_path fit=clip alt=page.main_image_caption %}
       <!-- end format images -->
        
-      <figcaption class="gallery--caption">{{ main_image_caption }}</figcaption>
+      <figcaption class="gallery--caption">{{ site.title }} : {{ page.main_image_caption }}</figcaption>
   
   
   </div>
