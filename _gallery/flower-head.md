@@ -13,7 +13,7 @@ display_title: true
 display_image: true
 main_image_path: /assets/images/5382d49f381e4.jpg
 main_image_caption: 'Reflecting '
-show_main_image: false
+show_main_image: true
 thumb_crop: false
 display_thumb_title: false
 images:
