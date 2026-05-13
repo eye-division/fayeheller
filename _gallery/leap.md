@@ -12,6 +12,7 @@ display_image: true
 archive: false
 main_image_path: /uploads/leap.jpg
 main_image_caption: Leap
+show_main_image: true
 thumb_crop: false
 display_thumb_title: true
 images:
