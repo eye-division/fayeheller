@@ -6,7 +6,7 @@ homepage_description_markdown:
 _gallery_date:
 frontpage: false
 frontpagetitle: Leap
-permalink: /gallery/leap
+permalink: /gallery/leap/
 display_title: false
 display_image: true
 archive: false
